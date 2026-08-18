@@ -1,0 +1,12 @@
+soil_type,test_family,proposed_split,rows,specimens,tubes,suction_min_kPa,suction_max_kPa,q_peak_min_kPa,q_peak_max_kPa
+MH,multistage,calibration,17,8,5,27.6,137.9,87.6,204.20000000000002
+MH,multistage,holdout,4,2,1,20.7,137.9,75.80000000000001,167.5
+MH,single_stage,calibration,8,8,8,13.8,89.6,119.99999999999999,319.9
+MH,single_stage,holdout,3,3,3,27.6,152.0,118.5,236.9
+ML,multistage,calibration,29,10,8,6.9,117.2,128.60000000000002,406.09999999999997
+ML,multistage,holdout,12,4,3,6.9,124.1,85.3,338.1
+ML,single_stage,calibration,3,3,3,27.6,55.2,205.5,246.8
+ML,single_stage,holdout,2,2,1,31.0,31.0,305.5,332.3
+SC,multistage,calibration,4,2,1,10.3,137.9,68.8,231.70000000000002
+SC,single_stage,calibration,3,3,3,10.3,72.4,154.4,254.4
+SC,single_stage,holdout,1,1,1,55.2,55.2,253.8,253.8

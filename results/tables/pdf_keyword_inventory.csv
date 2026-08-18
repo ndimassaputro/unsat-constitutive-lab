@@ -1,0 +1,28 @@
+keyword,occurrences,pdf_pages
+unsaturated triaxial,12,"1, 17, 18, 19, 39, 40"
+single stage,4,"1, 19, 40, 41"
+single-stage,0,
+multistage,5,"1, 19, 40"
+multi-stage,0,
+matric suction,77,"1, 11, 12, 13, 14, 19, 20, 21, 22, 27, 41, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67"
+suction,121,"1, 4, 11, 12, 13, 14, 19, 20, 21, 22, 23, 24, 26, 27, 35, 41, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67"
+axial strain,9,"67, 68, 69"
+deviator stress,0,
+deviatoric stress,11,"67, 68, 69, 70"
+stress-strain,5,"39, 67, 69"
+stress strain,8,"39, 40, 41, 67, 69"
+confining pressure,57,"10, 19, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 69"
+confining stress,3,67
+net normal stress,0,
+net confining,54,"10, 19, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67"
+effective stress,0,
+pore water pressure,2,"12, 17"
+water content,52,"4, 16, 19, 20, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67"
+degree of saturation,49,"40, 41, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66"
+pressure plate,8,"1, 11, 14, 15, 27"
+soil-water characteristic,0,
+soil water characteristic,4,"27, 28, 32"
+failure envelope,0,
+shear strength,5,"19, 27, 39, 40"
+apparent cohesion,0,
+friction angle,0,

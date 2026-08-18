@@ -1,0 +1,5 @@
+quantity,value,lower,upper
+spearman_rho_all,0.9955047079072593,,
+spearman_rho_multistage,0.9955128205128204,,
+paired_delta_lambda_mean,2.6179312031092863,1.6572297434140995,3.731105269538755
+paired_prob_delta_positive,1.0,,

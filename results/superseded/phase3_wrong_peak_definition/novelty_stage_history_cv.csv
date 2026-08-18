@@ -1,0 +1,4 @@
+soil_type,n_multistage_tubes,status,rmse_baseline_kPa,rmse_stage_kPa,rmse_change_pct,bootstrap_change_p025_pct,bootstrap_change_p975_pct,bootstrap_prob_improvement
+MH,6,evaluated,24.472574081303197,25.850085853472308,5.628798047940189,0.7291095551979254,23.8225682292409,0.0
+ML,11,evaluated,53.14653608202119,54.620247733927464,2.772921361482313,-1.7349433217132166,9.076825539789885,0.11966666666666667
+SC,1,insufficient_tubes,,,,,,

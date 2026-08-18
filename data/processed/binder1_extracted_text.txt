@@ -1,0 +1,6450 @@
+
+==============================================================================
+PDF PAGE 1
+==============================================================================
+102 
+ 
+Appendix D. Laboratory testing program 
+Ninety-four Shelby tubes were taken in the test site, from 10 boring holes and depth 
+from 2 feet to 51 feet. 20 Shelby tubes were sent to NCDOT laboratory for consolidation 
+undrain triaxial tests, and 66 Shelby tubes were sent to CFL lab at NCState for tests including 
+matric suction measurement, filter paper test, pressure plate test and unsaturated triaxial test. 
+The test program is summarized in Table D-1, and the locations of Shelby tubes are shown in 
+Figure D-1. 
+ 
+Table D-1 Test program 
+ 
+Tube number 
+Test types 
+# of test 
+Note 
+NCDOT 
+Geotechnical 
+Lab 
+ST-1 to ST-25, 
+ST-27, ST-29, 
+ST-31, ST-33 
+and ST-35 
+Consolidation test 
+1 per tube 
+ 
+CIU triaxial test 
+1~3 per 
+tube 
+ 
+Permeability test 
+1 
+ST-27 (A-4 soil) 
+NCState 
+CFL Soil 
+Lab 
+ST-28, ST-30, 
+ST-32, ST-34 
+and ST-36 to 
+ST-94 
+Matric suction 
+measurement 
+Every tube 
+Measured by 
+tensiometer 
+Pressure plate test 
+10 
+ 
+Unsaturated triaxial test 
+46 
+20 single stage; 
+26 multistage 
+ 
+
+==============================================================================
+PDF PAGE 2
+==============================================================================
+103 
+ 
+ 
+Figure D-1 Plan view of locations of Shelby tubes 
+ 
+ 
+ 
+
+==============================================================================
+PDF PAGE 3
+==============================================================================
+104 
+ 
+D.1 Tested soil 
+Soil samples for testing were obtained from a construction site in Greensboro, 
+Guilford County, North Carolina. The specimens were obtained from depths of 3 to 52 feet. 
+The site soils are mainly red silt clay and tan sandy silt. These colors resulted from the 
+various degrees of chemical weathering processes. The red color is due to the iron oxides 
+contents. The soil at the shallower layers experienced a higher degree of weathering, which 
+results in a darker red color and higher percent of finer particles. The tan color is closer to the 
+color of origin rock (gneiss, schist and granite). The tan colored soil exists in deeper layer or 
+has lower fines content, which indicates less weathering has occurred. 
+The physical properties of the four groups of test soils found at the site are shown in 
+Table D-2. The site soils can be separated into three types on the basis of their physical 
+properties. These are MH, ML and SC according to USCS classification and A-7-5, A-4 and 
+A-2-6 according to ASSHTO classification. The ML soils were divided into two subgroups 
+based on the significantly different percent fines content (percent smaller than 0.074 mm). 
+ 
+Table D-2 Properties of major groups of soil in this research 
+ 
+ 
+Symbol Soil Type 
+(USCS)
+Soil Type 
+(AASHTO)
+Depth 
+(ft)
+Gs
+LL 
+(%)
+PI 
+(%)
+< #200 
+(%)
+Clay 
+(%)
+Silt 
+(%)
+Sand 
+(%)
+φ' 
+(deg)
+c'  
+(psi)
+G1
+MH
+A-7-5
+5-12
+1.11
+2.76
+61
+22
+88
+15
+73
+12
+27
+1.9
+G2
+ML
+A-4
+24-50
+1.61
+2.70
+40
+6
+60
+4
+56
+45
+30
+2.8
+G3
+ML
+A-5
+13-27
+1.65
+2.73
+45
+10
+84
+6
+78
+16
+28
+2.5
+G4
+SC
+A-2-6
+2-7
+1.75
+2.68
+34
+11
+32
+10
+22
+68
+36
+0
+  
+(g/𝑐 3)
+
+==============================================================================
+PDF PAGE 4
+==============================================================================
+105 
+ 
+ 
+Table D-3 Soil properties of Tubes from 0.5:1 slope (405+70 3 LT) 
+ 
+ψ_t
+ψ_f
+w_f
+Tensiometer suction
+Filter paper suction
+Filter paper sample water content
+#
+Depth
+w 
+γd 
+γt 
+Gs
+S
+e
+θw
+θs
+#200
+5μm 2μm LL PL PI
+Tensiometer 
+ψ_t
+Filter paper  
+ψ_f
+w_f
+(ft)
+(AASHTO) (USCS) (%) (pcf) (pcf)
+(%)
+(%)
+(%)
+(%)
+time
+(kPa)
+time
+(kPa)
+(%)
+2.0
+25.8
+80
+100
+63
+1.11 0.33 0.53
+7/12/13
+86.7
+7/12/13
+86.1
+7/19/13
+268.6
+27.6
+9/18/13
+86.0
+9/30/13
+179.3
+5.0
+38.9
+61
+84
+59
+1.79 0.38 0.64
+7/17/13
+84.8
+7.0
+32.6
+72
+95
+65
+1.36 0.38 0.58
+7/17/13
+81.6
+7/24/13
+163.2
+29.8
+7/17/13
+73.9
+ 10/18/13
+79.6
+10/30/13
+441.2
+29.1
+10.0
+35.0
+67
+91
+62
+1.52 0.38 0.60
+7/17/13
+77.1
+7/24/13
+128.1
+33.0
+7/18/13
+58.5
+ 10/16/13
+58.7
+10/30/13
+53.9
+40.9
+18.0
+36.0
+67
+92
+64
+1.52 0.39 0.60
+7/18/13
+56.4
+7/26/13
+62.9
+37.9
+7/18/13
+48.8
+10/17/13
+49.2
+10/30/13
+47.0
+39.4
+20.0
+17.5
+71
+83
+34
+1.42 0.20 0.59
+7/18/13
+45.7
+7/26/13
+57.4
+20.3
+ST41
+25.0
+A-7-5
+MH
+46.1
+73
+107
+2.79
+94
+1.37 0.54 0.58
+84.7
+5.7
+2.2
+60 42 18
+7/19/13
+34.7
+7/27/13
+53.9
+45.1
+7/26/13
+14.2
+ 10/28/13
+28.6
+11/6/2013
+45.3
+40.6
+30.0
+39.9
+83
+116
+102 1.07 0.53 0.52
+7/26/13
+17.5
+8/2/13
+50.3
+37.0
+ST43
+34.5
+A-4
+ML
+20.1
+110
+133
+2.81
+96
+0.59 0.36 0.37
+76.7
+8.0
+2.0
+31 27
+4
+7/30/13
+13.9
+8/6/13
+48.3
+20.4
+ST44
+38.9
+A-6
+ML
+17.3
+114
+133
+2.84
+88
+0.56 0.32 0.36
+60.1
+4.0
+1.0
+38 25 13
+7/30/13
+11.5
+8/6/13
+30.7
+18.5
+ST45
+44.1
+A-4
+ML
+20.5
+115
+139
+2.88 105 0.56 0.38 0.36
+68.2
+14.7 10.4 34 27
+7
+8/6/13
+18.3
+8/14/13
+38.3
+19.6
+ST46
+49.5
+A-4
+ML
+19.3
+111
+133
+2.92
+88
+0.64 0.34 0.39
+48.5
+10.0
+5.0
+38 29
+9
+8/7/13
+38.2
+8/15/13
+57.8
+25.1
+Soil Type
+61 40
+42 16
+85.8
+17.2
+8.8
+58 42 16
+50 37 13
+83.5
+32.5 22.3 50 34 16
+85.8
+17.2
+8.8
+58
+82
+58
+1.93 0.38 0.66
+0.5:1 slope 405+70 3'LT
+A-7-5
+A-7-5
+47 35 12
+0.35 0.55
+89.2
+10.9
+5.0
+111
+97
+1.22
+21
+73
+1.59 0.45 0.61
+ST40
+18.0
+0.53 0.55
+ST42
+28.0
+A-7-5
+42.6
+78
+42.2
+66
+94
+2.74
+2.76
+MH
+MH
+A-7-5
+A-7-5
+A-7-5
+41.3
+58
+2.72
+ST36
+4.0
+28.6
+76
+97
+63
+1.22
+2.69
+2.72
+MH
+MH
+ST37
+87.4
+22.8 14.0
+MH
+MH
+45
+1.79 0.29 0.64
+ST38
+8.0
+29.5
+61
+79
+2.72
+ST39
+16.0
+21.5
+31.7
+94.6
+
+==============================================================================
+PDF PAGE 5
+==============================================================================
+106 
+ 
+Table D-4 Soil properties of Tubes from 0.5:1 slope (405+70 9 RT) 
+ 
+ 
+#
+Depth
+w 
+γd 
+γt 
+Gs
+S 
+e
+θw
+θs
+%#200 5μm 2μm LL PL PI
+Tensiometer 
+ψ_t
+Filter paper 
+ψ_f
+w_f
+(ft)
+(AASHTO) (USCS) (%) (pcf) (pcf)
+(%)
+(%)
+(%)
+(%)
+time
+(kPa)
+time
+(kPa)
+(%)
+6.4
+34.1
+77
+103
+77
+1.22 0.42 0.55
+10/4/13
+102.2
+10/19/13
+177.0
+34.7
+8.4
+33.9
+56
+75
+46
+2.03 0.31 0.67
+10/4/13
+102.2
+10/21/13
+182.0
+32.4
+11.4
+35.3
+63
+85
+56
+1.79 0.36 0.64
+10/21/13
+86.2
+11/6/13
+620.3
+34.8
+13.4
+46.3
+53
+78
+57
+2.30 0.40 0.70
+9/20/13
+86.7
+9/30/13
+104.5
+45.5
+16.4
+44.2
+61
+87
+65
+1.94 0.43 0.66
+10/23/13
+67.4
+11/6/13
+129.2
+41.4
+18.4
+51.3
+66
+100
+86
+1.71 0.54 0.63
+8/21/13
+63.4
+9/8/13
+61.0
+45.7
+21.4
+32.1
+70
+93
+60
+1.51 0.36 0.60
+10/23/13
+56.4
+11/6/13
+101.2
+30.0
+23.4
+35.2
+81
+109
+83
+1.19 0.45 0.54
+8/23/13
+54.0
+9/8/13
+61.4
+32.8
+ST92
+28.4
+A-7-5
+MH
+40.7
+74
+104
+2.82
+83
+1.39 0.48 0.58
+69.8
+13.4
+4.0
+57 40 17
+8/20/13
+40.8
+9/8/13
+50.1
+41.1
+9/30/13
+43.2
+25.4
+9/30/13
+40.6
+25.5
+56.0
+31.2
+51.9
+30.6
+Soil Type
+37 14
+9/30/13
+92
+1.08 0.48 0.52
+9/13/13
+27.2
+9/13/13
+38.8
+25.0
+40.0
+93.1
+69.7
+30.0 15.0
+41 21
+53 38 15
+84.2
+6.8
+4.1
+51
+31
+9
+62
+40
+66.4
+14.0 67 47 20
+90.4
+22.0
+60 38
+0.38 0.45
+11.5
+4.3
+ST94
+39.4
+A-7-5
+34.3
+86
+24.0
+98
+121
+2.83
+116
+2.88
+A-4
+MH
+33.4
+84
+0.81
+0.5:1 slope 405+70 9'RT PMT
+ST88
+A-7-5
+ST89
+A-7-5
+93.6
+46.1 29.0
+22
+2.74
+2.82
+2.86
+2.83
+MH
+MH
+MH
+MH
+ML
+ST90
+A-7-5
+ST91
+A-7-5
+ST93
+
+==============================================================================
+PDF PAGE 6
+==============================================================================
+107 
+ 
+Table D-5 Soil properties of Tubes from 0.25:1 slope (404+50 3 LT) 
+ 
+ 
+#
+Depth
+w 
+γd 
+γt
+Gs
+S
+e
+θw
+θs
+%#200 5μm 2μm LL PL PI
+Tensiometer 
+ψ_t
+Filter paper 
+ψ_f
+w_f
+3'LT
+(ft)
+(AASHTO) (USCS) (%) (pcf) (pcf)
+ (%)
+(%)
+(%)
+(%)
+time
+(kPa)
+time
+(kPa)
+(%)
+7/2/13
+39.1
+10/29/13
+44.8
+4.2
+36.8
+69
+94
+67
+1.50 0.40 0.60
+7/2/13
+67.8
+7/9/13
+132.4
+34.6
+7/2/13
+71.5
+10/30/13
+72.8
+7.2
+37.4
+72
+98
+73
+1.45 0.43 0.59
+7/2/13
+67.8
+7/9/13
+142.4
+33.5
+7/3/13
+78.6
+10/30/13
+78.7
+7/3/13
+74.2
+10/30/13
+76.4
+10.2
+40.2
+70
+98
+76
+1.48 0.45 0.60
+11/6/13
+63.4
+1/22/14
+106.3
+36.01
+12.2
+35.7
+78
+106
+81
+1.24 0.45 0.55
+7/12/13
+60.5
+7/19/13
+125.5
+35.3
+7/11/13
+44.8
+11/7/13
+47.5
+15.2
+46.8
+65
+96
+80
+1.58 0.49 0.61
+7/11/13
+41.3
+7/18/13
+55.9
+45.6
+18.2
+50.2
+67
+101
+88
+1.60 0.54 0.61
+7/3/13
+23.8
+7/11/13
+38.5
+48.7
+20.2
+49.4
+65
+97
+81
+1.70 0.51 0.63
+11/10/13
+24.6
+1/22/14
+47.8
+46.7
+ST53
+25.2
+A-7-5
+MH
+42.3
+78
+111
+2.73
+97
+1.19 0.53 0.54
+84.8
+17.5
+7.0
+63 45 18
+8/8/13
+29.3
+8/18/13
+44.7
+38.7
+ST54
+30.2
+A-7-5
+MH
+24.3
+98
+121
+2.76
+88
+0.76 0.38 0.43
+55.4
+14.3
+7.0
+51 36 15
+8/9/13
+23.6
+8/18/13
+40.0
+28.5
+ST55
+35.2
+A-7-5
+ML
+22.3
+102
+125
+2.83
+87
+0.72 0.37 0.42
+63.6
+9.7
+4.0
+43 32 11
+8/7/13
+25.1
+8/15/13
+37.6
+25.5
+ST56
+40.2
+A-4
+ML
+24.4
+100
+125
+2.75
+94
+0.71 0.39 0.42
+58.7
+8.0
+3.0
+36 29
+7
+8/8/13
+21.3
+8/18/13
+34.8
+22.0
+ST57
+44.7
+A-4
+SM
+19.3
+104
+124
+2.70
+85
+0.62 0.32 0.38
+41.0
+11.0
+5.0
+30 25
+5
+7/3/13
+10.8
+8/14/13
+25.9
+19.0
+ST58
+49.2
+A-4
+SM
+17.0
+114
+133
+2.73
+94
+0.50 0.31 0.33
+43.0
+7.5
+4.5
+35 30
+5
+8/9/13
+13.4
+8/18/13
+34.8
+16.1
+Soil Type
+61 39
+23
+60 36 24
+22
+0.25:1 Slope 404+50 3'LT
+93
+65
+243.7
+34.7
+ST49
+68
+A-7-5
+31.4
+ST48
+5.2
+A-7-5
+33.6
+73
+97
+67
+1.41 0.39
+11/6/13
+218.5
+34.3
+34.0
+25.0
+11/6/13
+98.3
+34.2
+22
+7.5
+MH
+0.42 0.56
+87.4
+36.6
+64
+22
+42
+75
+1.25
+61 39
+2.75
+2.81
+MH
+MH
+0.58
+88.4
+36.2 24.0
+43.5
+1.53
+2.77
+ST47
+2.2
+76
+102
+9.5
+33.5
+72
+96
+66
+1.41 0.39 0.59
+7/11/13
+138.7
+33.0
+0.39 0.61
+84.8
+11/7/13
+18.0
+11/6/13
+59
+A-7-5
+35.8
+ST52
+A-7-5
+84.3
+13.0
+2.0
+60 45
+MH
+ST50
+A-7-5
+88.5
+25.1 14.9
+2.79
+36
+51.9
+15
+2.80
+ST51
+13.2
+A-7-5
+44.2
+61
+88
+68
+MH
+MH
+11.0
+0.64
+84.4
+20.0
+2.70
+0.43
+1.76
+
+==============================================================================
+PDF PAGE 7
+==============================================================================
+108 
+ 
+Table D-6 Soil properties of Tubes from 1:1 slope (403+45 3 LT) 
+ 
+#
+Depth
+w 
+γd 
+γt
+Gs
+S 
+e
+θw
+θs
+%#200 5μm 2μm LL PL PI
+Tensiometer 
+ψ_t
+Filter paper 
+ψ_f
+w_f
+(ft)
+(AASHTO) (USCS) (%) (pcf) (pcf)
+(%)
+(%)
+(%)
+(%)
+time
+(kPa)
+time
+(kPa)
+(%)
+2.1
+12.6
+114
+129
+72
+0.47 0.23 0.32
+7/4/13
+76.0
+7/11/13
+650.9
+4.1
+9.5
+123
+135
+69
+0.37 0.19 0.27
+7/4/13
+81.7
+5.1
+16.5
+110
+128
+86
+0.51 0.29 0.34
+6.9
+15.0
+109
+126
+76
+0.52 0.26 0.34
+7/4/13
+9.8
+7/11/13
+44.7
+13.24
+7/5/13
+45.2
+11/11/13
+50.8
+7/5/13
+59.5
+11/11/13
+60.5
+7/12/13
+148.4
+19.16
+7/11/13
+37.9
+11/20/13
+50.0
+15.1
+20.7
+109
+132
+98
+0.59 0.36 0.37
+7/11/13
+29.1
+7/18/13
+192.9
+19.17
+18.1
+7/5/13
+30.5
+20.1
+7/5/13
+24.3
+7/12/13
+181.0
+20.55
+ST64
+27.1
+A-7-5
+ML
+21.5
+106
+128
+2.81
+92
+0.66 0.36 0.40
+84.7
+5.7
+2.2
+45 33 12
+8/13/13
+35.3
+8/23/13
+49.4
+21.28
+ST65
+30.8
+A-4
+ML
+24.2
+101
+126
+2.86
+91
+0.76 0.39 0.43
+79.2
+12.0
+7.1
+37 29
+8
+8/13/13
+29.0
+8/23/13
+45.9
+19.88
+ST66
+35.8
+A-4
+SM
+16.7
+107
+125
+2.75
+76
+0.60 0.29 0.38
+41.0
+4.7
+4.0
+29 27
+2
+8/14/13
+13.8
+8/26/13
+32.8
+15.55
+ST67
+40.8
+A-4
+ML
+21.5
+101
+122
+2.71
+86
+0.68 0.35 0.41
+80.5
+5.9
+3.0
+37 30
+7
+8/14/13
+13.8
+8/26/13
+41.5
+20.70
+ST68
+45.8
+A-7-5
+MH
+49.3
+73
+108
+2.93
+95
+1.52 0.57 0.60
+93.9
+20.0
+6.1
+63 35 28
+8/15/13
+17.3
+8/26/13
+31.2
+51.32
+ST69
+50.3
+A-4
+SM
+14.4
+119
+137
+2.75
+91
+0.44 0.28 0.30
+43.4
+4.9
+3.2
+31 27
+4
+8/15/13
+12.5
+8/26/13
+30.2
+11.65
+2.78
+Soil Type
+14
+81.3
+81.3
+75.4
+12.2 10.8
+13.7 11.7
+23.3 16.1
+7.9
+4.5
+13.1
+4.8
+34
+44 33 11
+48 34
+13
+2.70
+30.0
+37 24
+1:1 Slope 403+45 3'LT
+ST61
+10.1
+A-4
+13.0
+109
+114
+ST59
+A-2-6
+SC
+ST60
+23.7
+101
+125
+2.72
+94
+0.68 0.38
+ML
+ML
+0.34 0.48
+71
+0.91
+62
+34.0
+12.1
+11.9
+123
+SC
+ML
+2.67
+A-2-6
+23 11
+34 26
+8
+ST63
+A-7-5
+ST62
+13.1
+A-7-5
+23.3
+91
+112
+0.41
+128
+64
+0.52 0.22 0.34
+0.59 0.23 0.37
+2.78
+
+==============================================================================
+PDF PAGE 8
+==============================================================================
+109 
+ 
+Table D-7 Soil properties of Tubes from Sheet pile (404+50 86 RT) 
+ 
+Table D-8 Soil properties of Tubes from Sheet pile (404+50 94 RT) 
+ 
+ 
+#
+Depth
+w 
+γd 
+γt
+Gs
+S 
+e
+θw
+θs
+%#200 5μm 2μm LL PL PI
+Tensiometer 
+ψ_t
+Filter paper 
+ψ_f
+w_f
+(ft)
+(AASHTO) (USCS) (%) (pcf) (pcf)
+(%)
+(%)
+(%)
+(%)
+time
+(kPa)
+time
+(kPa)
+(%)
+6
+7/19/13
+94.7
+8
+13.2
+80
+90
+32
+1.10
+7/19/13
+95.7
+7/27/13
+379.5
+15.4
+ST82
+12
+A-4
+ML
+16.2
+85
+98
+2.75
+43
+1.03 0.22 0.51
+61.5
+9.1
+4.4
+39 32
+7
+7/23/13
+85.5
+7/30/13
+166.7
+16.3
+16
+7/23/13
+85.1
+18
+18.9
+81
+97
+49
+1.00 0.25 0.50
+7/23/13
+79.1
+7/30/13
+71.7
+18.5
+ST84
+23
+A-4
+ML
+27.2
+81
+103
+2.66
+69
+1.04 0.35 0.51
+64.2
+15.1 12.1 40 33
+7
+7/24/13
+65.1
+8/1/13
+57.9
+9/26/13
+50.7
+27.4
+9/26/13
+53.3
+28.9
+9/26/13
+41.1
+28.0
+9/26/13
+41.3
+29.4
+ST87
+39.5
+A-4
+ML
+27.9
+97
+124
+2.70 102 0.74 0.43 0.43
+55.8
+9.1
+4.6
+38 32
+6
+8/19/13
+23.2
+9/8/13
+38.8
+25.6
+26.5
+ST83
+3.1
+2.3
+9/12/13
+43.2
+ST86
+33
+31.1
+84
+110
+ML
+A-4
+2.73
+82
+1.03 0.42 0.51
+56.5
+12.0
+6.0
+38 31
+7
+9/12/13
+38 32
+6
+ST85
+28
+A-4
+28.8
+ML
+89
+114
+0.41
+2.69
+87
+0.89
+0.47
+68.6
+11.8
+4.0
+45 34 11
+58.1
+41 33
+8
+A-5
+ML
+2.68
+0.52
+61.0
+21.0 13.3
+0.17
+2.61
+A-4
+ML
+Sheetpile wall 404+50 86'RT PMT
+Soil Type
+ST81
+#
+Depth
+w 
+γd 
+γt
+Gs
+S 
+e
+θw
+θs
+%#200 5μm 2μm LL PL PI
+Tensiometer 
+ψ_t
+Filter paper 
+ψ_f
+w_f
+(ft)
+(AASHTO) (USCS) (%) (pcf) (pcf)
+(%)
+(%)
+(%)
+(%)
+time
+(kPa)
+time
+(kPa)
+(%)
+ST26
+6.5
+A-6
+CL
+14.6
+54
+62
+2.69
+19
+2.12 0.13 0.68
+57.5
+14.3 10.4 39 27 12
+ST28
+15.2
+A-4
+ML
+17.0
+85
+100
+2.69
+47
+0.97 0.23 0.49
+66.3
+17.0
+8.8
+36 29
+7
+4/7/13
+66.8
+ST30
+24.2
+A-7-5
+CH
+35.9
+82
+111
+2.80
+88
+1.14 0.47 0.53
+71.4
+18.6 12.4 58 25 33
+7/24/13
+28.0
+8/1/13
+60.2
+ST32
+34.2
+A-4
+ML
+26.1
+99
+124
+2.77
+96
+0.75 0.41 0.43
+53.1
+11.1
+4.7
+38 30
+8
+7/24/13
+18.7
+8/1/13
+48.7
+24.1
+ST34
+44.2
+A-4
+ML
+22.5
+102
+125
+2.79
+88
+0.71 0.37 0.42
+61.5
+10.9
+1.5
+38 28 10
+7/24/13
+20.0
+8/1/13
+48.0
+22.9
+Soil Type
+Sheetpile wall 404+50 94'RT
+
+==============================================================================
+PDF PAGE 9
+==============================================================================
+110 
+ 
+Table D-9 Soil properties of Tubes from Sheet pile (404+50 102 RT) 
+ 
+ 
+#
+Depth
+w 
+γd 
+γt
+Gs
+S 
+e
+θw
+θs
+%#200 5μm 2μm LL PL PI
+Tensiometer 
+ψ_t
+Filter paper 
+ψ_f
+w_f
+(ft)
+(AASHTO) (USCS) (%) (pcf) (pcf)
+(%)
+(%)
+(%)
+(%)
+time
+(kPa)
+time
+(kPa)
+(%)
+ST70
+5.2
+A-7-5
+CL
+23.8
+83
+103
+2.70
+62
+1.03 0.32 0.51
+72.1
+27.8 17.1 45 26 19
+8/16/13
+184.0
+8/26/13
+1124.9
+21.1
+ST71
+8.2
+20.0
+102
+122
+2.68
+84
+0.64 0.33 0.39
+72.9
+21.0 12.0
+10/8/13
+170.0
+10/19/13
+776.3
+18.0
+10/19/13
+464.5
+14.9
+10/19/13
+431.0
+15.9
+ST73
+16.2
+A-7-5
+ML
+29.1
+89
+115
+2.81
+84
+0.98 0.41 0.49
+77.3
+6.8
+4.5
+55 41 14
+9/18/13
+92.5
+9/30/13
+747.3
+28.7
+9/19/13
+124.8
+15.9
+9/19/13
+128.2
+15.6
+3/12/14
+176.9
+19.5
+9/26/13
+55.0
+16.1
+9/26/13
+53.3
+16.2
+3/12/14
+101.2
+15.7
+ST76
+31.2
+A-7-5
+ML
+18.3
+110
+130
+2.69
+92
+0.53 0.32 0.35
+51.9
+8.0
+1.5
+44 33 11
+8/21/13
+20.1
+9/8/13
+44.9
+19.0
+ST77
+36.2
+A-4
+ML
+21.1
+101
+123
+2.68
+86
+0.65 0.34 0.39
+58.8
+7.0
+0.8
+32 27
+5
+8/23/13
+25.1
+9/8/13
+39.6
+20.4
+ST78
+41.2
+A-4
+ML
+20.3
+99
+119
+2.68
+79
+0.69 0.32 0.41
+58.2
+5.4
+1.8
+36 29
+7
+8/22/13
+18.6
+9/8/13
+44.2
+19.0
+ST79
+46.2
+A-4
+ML
+17.6
+115
+135
+2.83
+93
+0.54 0.32 0.35
+60.5
+9.9
+3.8
+28 25
+3
+8/20/13
+23.7
+9/8/13
+48.5
+14.9
+ST80
+51.2
+A-4
+ML
+21.0
+107
+130
+2.68 101 0.56 0.36 0.36
+59.0
+6.5
+1.9
+34 29
+5
+8/26/13
+28.7
+9/9/13
+44.5
+20.3
+ST75
+26.2
+2.73
+75
+4.4
+0.64 0.29
+42
+9/10/13
+34.8
+31 11
+0.39
+64.3
+8.8
+ST74
+20.8
+14.0
+A-7-5
+ML
+111
+127
+17.5
+104
+A-7-5
+ML
+122
+33 11
+2.74
+10/3/13
+136.6
+71
+0.54 0.25 0.35
+60.0
+11.5
+5.7
+44
+9/9/13
+57.8
+2.71
+27
+1.54 0.17 0.61
+75.1
+16.3 11.8
+Soil Type
+ST72
+13.2
+15.5
+67
+77
+Sheetpile wall 404+50 102'RT
+
+==============================================================================
+PDF PAGE 10
+==============================================================================
+111 
+ 
+Saturated Strength Properties  
+Figure D-2 shows plots of the peak p’-q values from the saturated tests for the four 
+major groups of soil in this test site, with the interpreted strength parameters recorded in 
+Table D-2. The tests were performed on specimens from tubes at field locations nearby to the 
+tubes from which the unsaturated test specimens were obtained. The magnitudes of initial 
+effective confining pressures applied were in the same range of net confining pressure 
+applied in unsaturated tests. Therefore, the parameters obtained from the CIU testing are 
+considered to be applicable to the unsaturated data. 
+Figure D-2 Results of Saturated Consolidation Undrained Tests (a) G1; (b) G2; (c) G3; (d) 
+G4 
+(a) 
+(b) 
+(c) 
+(d) 
+
+==============================================================================
+PDF PAGE 11
+==============================================================================
+112 
+ 
+D.2 Laboratory testing device 
+In order to study the matric suction comprehensively, pressure plate tests (ASTM 
+6836) were performed to generate SWCCs, and filter paper tests (ASTM 5298) also were 
+used for comparison. Subsequent soil characterization tests, which included natural water 
+content (ASTM D4959), grain size distribution (ASTM D422), specific gravity (ASTM 
+D854) and Atterberg limits (ASTM D4318), also were conducted by following ASTM 
+standards.  
+The experimental test set-up, lab testing procedure, and theory behind each matric 
+suction measurement method are presented in the following sections.     
+ 
+Tensiometer  
+The T5 Miniature Tensiometer (as shown in Figure D-3) is specially designed for 
+taking punctual measurements. With an active surface of only 0.5 cm2 and a diameter of 5 
+mm, the ceramic tip has all the advantages of small dimensions: little soil disturbance, 
+punctual pick-up, and fast response.  
+ 
+Figure D-3 T5 Tensiometer 
+ 
+
+==============================================================================
+PDF PAGE 12
+==============================================================================
+113 
+ 
+Specifications for both the T5 and the specialized T5x Miniature Tensiometer are 
+presented in Table D-10. Both tensiometers are used to measure matric suction by insertion 
+directly into the soil. The range of the T5 tensiometer is from +100 kPa (pore water pressure) 
+to -85 kPa (matric suction). The special version T5x can measure a higher range of matric 
+suction to -160 kPa due to the finer pores of the ceramic tip of the sensor.  
+ 
+Table D-10 T5 and T5x Tensiometer Specifications 
+Material 
+Acrylic glass 
+Shaft length 
+5 cm for T5(x)-5 and 10 cm T5(x)-10 
+Shaft diameter 
+5 mm 
+Sensor body length 
+3.5 cm 
+Sensor body 
+diameter 
+20 mm 
+Power supply 
+10.6VDC/1.3mA 
+Accuracy 
+±0.5 kPa 
+Range 
+T5: +100 kPa to -85 kPa 
+T5x: +100 kPa to -160 kPa 
+Advantages 
+Accurate zero-tension reading 
+Fast response: With sufficient filling, the T5 responds 
+within 5 seconds to an applied air pressure change of 0 kPa 
+to 85 kPa. 
+Most standard T5x reach a range of at least 160 kPa  
+Limitations 
+Not for dry soils and not frost resistant 
+ 
+ 
+Operation of the tensiometers (testing, precautions, and saturation) 
+Testing. By using the shaft to drill a hole in the soil, the sensor is installed in the 
+predrilled hole. When the test is performed, the shaft of the sensor must not be twisted or it 
+will loosen the connection between the shaft and the sensor body, which may cause the 
+sensor to become desaturated or give erroneous readings. 
+
+==============================================================================
+PDF PAGE 13
+==============================================================================
+114 
+ 
+Saturation. Before each test, the saturation condition of the sensors must be checked 
+to ensure the accuracy of the tests. If the sensor is desaturated, air bubbles can easily be 
+observed in the transparent shaft. 
+Sensor operation. The tensiometer needs to be refilled if the curve of the readings 
+becomes flatter and/or if the maximum -85 kPa can no longer be attained. If the soil dries out 
+and reaches the air entry value (-200 kPa for T5 and -500 kPa for T5x), the tension will 
+decrease rapidly as air enters the cup. In order to check if the T5 requires refilling, it should 
+be connected to a voltmeter. Then, a dry paper tissue should be wrapped around the cup to 
+dry the ceramic surface. If the reading rises to -80 kPa within 10 seconds when the T5 tip is 
+waved in the air, then the T5 does not require refilling.  
+Tensiometers allow the direct and precise measurement of small amounts of tension 
+in the soil. In this study, T5 and T5x laboratory tensiometers were used for measuring the 
+matric suction. The tensiometer was inserted into the soil, and the output was recorded as 
+voltage. The voltage corresponds directly to the matric suction. 
+ 
+ 
+Figure D-4 T5 tensiometer and test set-up 
+ 
+Filter paper 
+Filter paper also can be used for testing the matric suction of Shelby tube samples. 
+For this study, two 1-inch thick soil biscuits were cut, and Whatman #42 (42 mm diameter) 
+
+==============================================================================
+PDF PAGE 14
+==============================================================================
+115 
+ 
+filter paper was placed between the two soil biscuits. To prevent contamination, the 
+Whatman #42 filter paper was placed between two Fisherband P8 (5.5 cm diameter) filter 
+papers. 
+ 
+ 
+Figure D-5 Filter paper specimen 
+The moistened filter paper was weighed using an analytical balance with a four-
+decimal precision 0.0001 g balance. Then, the filter paper was placed in an oven at 105 
+Celsius degrees for 24 hours. After the drying process was completed, the filter paper was 
+weighed again, and the matric suction was calculated based on the calibration found in 
+ASTM 5298. 
+ 
+Pressure plate 
+The pressure plate cell design developed by Wang and Benson (2004) was used in 
+this study for obtaining the SWCCs. Fifteen-bar ceramic stone normally is used to determine 
+the SWCCs in a full suction range from 0 kPa to 1500 kPa. However, 5-bar ceramic stone 
+was used in this study because it allows for a less time-consuming process due to the fact that 
+the hydraulic conductivity of 5-bar stone is two orders of magnitude higher than that of 15-
+bar stone. This set-up also allows for less suction (≤ 500 kPa), which is the research concern 
+of this study.  
+
+==============================================================================
+PDF PAGE 15
+==============================================================================
+116 
+ 
+ 
+Figure D-6 Pressure plate test set-up 
+ 
+Sample preparation 
+An undisturbed sample was extruded from a Shelby tube into a standard consolidation 
+ring with dimensions of 5 cm in diameter and 2.5 cm in height. The sample was sandwiched 
+and stabilized using filter paper and porous stone in a perforated disk-shaped clamp. The 
+sample was immersed in a plastic cell with sufficient de-aired water. A vacuum was applied 
+on top of the cell for at least 48 hours. If air bubbles still escaped from the sample, a longer 
+time of saturation was required until no air bubbles were observed. The target sample mass at 
+100% saturation was calculated before the sample was saturated. The sample mass at post-
+saturation was measured and compared with the target mass at 100% saturation. If 99% 
+saturation was not reached, the saturation process was repeated. 
+Before the saturation of the soil sample, a 5-bar ceramic stone (air entry value of the 
+ceramic stone is 500 kPa) was saturated, and the ceramic stone was kept in the pressure plate 
+extractor filled with de-aired water to maintain the saturation level. Once the sample was 
+placed on top of the ceramic stone, it was rotated about 180 degrees to ensure close 
+attachment to the stone. Air pressure was applied from a compressed air tank and controlled 
+
+==============================================================================
+PDF PAGE 16
+==============================================================================
+117 
+ 
+by air pressure regulators. A stepwise increasing air pressure supply was used from 10 kPa to 
+480 kPa, and each air pressure increment doubled the previous air pressure, i.e., 10 kPa to 20 
+kPa, 20 kPa to 40 kPa, until reaching the maximum 480 kPa, which is close to the air entry 
+value of 500 kPa of the ceramic stone. At each pressure level before increasing to next 
+pressure level, 48 hours of equilibrium (as recommended in ASTM) was applied to establish 
+the soil-air-water equilibrium for the system. The water that was squeezed out from the 
+sample was collected in a pair of transparent plastic tubes with diameters of 1 cm each. By 
+applying different air pressures, the decreasing water content of the soil sample was reflected 
+in the increasing water level in the tubes. Based on the recorded water level in the tubes, the 
+water content that corresponded to the applied air pressure could be back-calculated. 
+Procedure of obtaining SWCC 
+First, ensuring that the porous stone is fully saturated is crucial to the test. If the stone 
+is not fully saturated, air will escape through the stone. For air pressure less than 500 kPa and 
+the case of saturated stone, the surface tension is enough to sustain the air pressure. A tank of 
+pressurized air was used as the source of the pressure supply in this study. Air could not 
+escape from the stone, but water could slowly drain out due to the low hydraulic conductivity 
+of the porous stone. An O-ring was used to ensure a good seal. The chamber and the base 
+were tightened together by six bolts. The same amount of torque was applied to each bolt; the 
+necessary amount of torque is 5 kN·m (3.7 kip·ft). 
+ Second, constant air flushing is important when measurements are taken. Air bubbles 
+can easily form at the base of the porous stone and in the tubes, so a small manual air pump 
+was used in this study to push water from one tube to the other as an effective way to remove 
+the air bubbles.  
+After flushing, a small cap was put on the tubes to avoid water evaporation. This air 
+flushing process was conducted every seven to eight hours. During the tests, the air entry 
+value is an important point to be determined because it marks when the soil begins to 
+desaturate. 
+ 
+ 
+
+==============================================================================
+PDF PAGE 17
+==============================================================================
+118 
+ 
+Unsaturated triaxial test 
+Apparatus  
+A schematic of the unsaturated triaxial test system used in testing is shown in Figure 
+D-7.  The device has both outer and inner chamber. A pressure panel is used to apply equal 
+pressures to inner and outer chambers, with the ability to monitor the volume change. One 
+modification is that the chamber is designed to have air and water connections on both top 
+and bottom plates to accelerate the sample’s equilibrium process.  
+The air supply is connected to a regulator to control and maintain the pressure 
+magnitude, and is applied to both top and bottom connections. Two water pumps provide the 
+pore water pressure from both top and bottom ends of the specimen. The photo shown in 
+Figure D-8 includes loading frame, pumps, pressure panel and laptop with program running. 
+ 
+Figure D-7 Schematic of the unsaturated triaxial test device 
+
+==============================================================================
+PDF PAGE 18
+==============================================================================
+119 
+ 
+ 
+Figure D-8 Photo of unsaturated triaxial test device 
+Figure D-9 is the photo of the top and bottom end in this research. The parts of 
+porous stone are connected to air supply to apply air pressure to the specimen. 
+The parts of ceramic disk are connected to the water pump, and during test, the 
+ceramic disk and the connection lines from ceramic disk to water pump are all saturated. 
+When the ceramic disk is saturated, it prevents the air with an air pressure less than the air 
+entry value of the ceramic from passing through it. 
+ 
+ 
+Figure D-9 Photo of top and bottom caps 
+
+==============================================================================
+PDF PAGE 19
+==============================================================================
+120 
+ 
+Procedure 
+For the unsaturated triaxial testing, samples were extracted from Shelby tubes and 
+trimmed to 4-inch height and 2-inch diameter. The ratio of height to diameter was 2 to 1, in 
+concert with ASTM-7181 (which specifies a ratio shall be between 2 to 2.5 in consolidated 
+drained triaxial testing). 
+During the equilibrium process, 2 to 3 psi of net confining pressure was maintained to 
+prevent the membrane around the specimen from expanding and the water content of the 
+specimen decreased to approach the values corresponding to the applied matric suction. The 
+shear process has begun after reaching equilibrium. 
+In each stage of shearing, the applied air pressure and water pressure were maintained 
+constant during shearing, so it is possible to determine the peak strength and its 
+corresponding net confining pressure and matric suction. 
+Two multistage tests and two single stage tests were performed for each of the MH 
+and ML soil types. The net confining pressure used for each specimen was based on the in 
+situ mean stress corresponding to the depth of the soil sample in the ground. In all stages of 
+the multistage testing, the net confining pressure was maintained constant, so the change of 
+the shear strength as a function of the increase in matric suction, at a certain depth, could be 
+evaluated. 
+The magnitude of the matric suction applied to the specimen was also assessed from 
+the in situ condition. In the 2-5 m depth range, the matric suction was on the order of 130 
+kPa, while from 11 to 15 m, it was on the order of 30 kPa. Therefore, the maximum value of 
+matric suction used in testing was 130 kPa. The multistage test was performed such that the 
+specimens were sheared at lower matric suction as the first stage, and then higher values of 
+matric suction were applied to the specimen. The specimen was sheared either two or three 
+times. For each stage of matric suction, the water pressure was maintained constant and the 
+air pressure was increased to induce the higher matric suction. 
+ 
+
+==============================================================================
+PDF PAGE 20
+==============================================================================
+121 
+ 
+Appendix E. Suction measurement and prediction of SWCC 
+Matric suction measurement and the prediction of SWCC are the fundamental 
+parameters for executing unsaturated soil properties. Therefore, in this chapter, the quick 
+measurement of matric suction device, tensiometer, is introduced including reliability of 
+measuring time, and an empirical model for predicting matric suction as a function of 
+volumetric water content is presented.  
+ 
+E.1 Verification of measuring time of tensiometer 
+A calibration study was undertaken for this research to evaluate the performance of 
+the fast-response tensiometers. 
+Paired sensors investigation 
+For each suction level, the ratio between the T5 and T5x tensiometers was plotted, as 
+presented in Figure E-1, as a function of time. The T5/T5x ratio is seen to be within 0.89 and 
+1.2 after 20 minutes. The ratio between the T5 and T5x sensors seems not to be affected by 
+the passage of time. That is, no obvious trend or pattern for the readings is evident from the 
+two sensors. The data do not show that T5x provides consistently higher readings than T5. 
+So, both T5 and T5x are seen to generate nearly the same matric suction values (for values 
+lower than 70 kPa) with a COV of 15 percent.  
+ 
+
+==============================================================================
+PDF PAGE 21
+==============================================================================
+122 
+ 
+ 
+ 
+Figure E-1 T5/T5x ratio by passage of time 
+ 
+Figure E-2 shows the same data from Figure E-1 plotted against the suction of the 
+T5x sensor. For suction levels higher than 20 kPa, both the T5 and T5x tensiometers still 
+show consistent results, and the variation between the two sensors is 0.89 to 1.2. So, T5 and 
+T5x can generate similar matric suction values at different suction levels and times. 
+The compacted samples indicate that the required equilibrium time can be determined 
+as 20 minutes. For the paired T5 and T5x tensiometers, the variation is 0.89 to 1.2. It appears 
+that neither time nor suction level affects the measuring consistency of the two sensors. One 
+sensor is the same as the other for suction levels higher than 20 kPa and lower than 70 kPa. 
+ 
+ 
+
+==============================================================================
+PDF PAGE 22
+==============================================================================
+123 
+ 
+ 
+Figure E-2 T5/T5x ratio over suction range 
+ 
+Proposed test duration for matric suction determination 
+Table E-1 presents the suction readings at 20 minutes and 60 minutes and the ratio of 
+suction at 20 minutes and 60 minutes for each suction level. 
+ 
+Table E-1 Measured Suction of Compacted Samples: 20 Minutes vs. 60 Minutes 
+Suction level (kPa) 
+ψ20
+min (kPa) 
+ψ60
+min (kPa) 
+ψ20min/ψ6
+0min (%) 
+11 
+7.4 
+10.7 
+68.6 
+23 
+18.1 
+23.0 
+78.6 
+35 
+35.3 
+34.9 
+101.1 
+68 
+68.0 
+68.0 
+100.0 
+Note: ψ20min: Suction at 20 minutes 
+          ψ60min: Suction at 60 minutes 
+
+==============================================================================
+PDF PAGE 23
+==============================================================================
+124 
+ 
+For 11 kPa and 23 kPa suction levels, ψ20min/ψ60min are 68.6% and 78.6%, 
+respectively. Therefore, approximately 70% of the suction at 60 minutes can be obtained at 
+20 minutes. At 35 kPa and 68 kPa, the 20-minute readings are basically the same as the 60-
+minute readings. For suction levels lower than 20 kPa (which is close to the air entry value of 
+the A-7-5 soil), a longer time is required to reach equilibrium. Therefore, 20 minutes can be 
+considered as a reliable time to determine the equilibrium suction for suction levels higher 
+than 35 kPa.  
+Suction readings at 2min  
+Because suction measurements taken during the thin-walled tube sampling process in 
+the field were obtained over a relatively short time, on the order of a few minutes (between 
+tube extraction and wax-sealing of the tube ends), it was determined that a suction correction 
+factor (SCF in figures) was necessary to predict the actual field suction.  
+Suction correction factor of lab-tested Shelby tube samples 
+In the lab, readings for both short (on the order of two minutes) and long (on the order 
+of 20 minutes) times were obtained for the tube samples of the A-7-5 (MH) and A-4 (ML) 
+soils. Again, in these tests, the paired sensors, as shown in Figure D-3, were used to ensure 
+the accuracy of the readings. The number of tube samples tested is shown in Table E-2. The 
+statistically determined data outliers were excluded from this analysis. 
+ 
+Figure E-3 Tensiometer testing in the laboratory 
+
+==============================================================================
+PDF PAGE 24
+==============================================================================
+125 
+ 
+Table E-2 Number of Samples Tested in Laboratory 
+Soil Type 
+A-7-5 (MH) A-4 (ML) 
+Number of tubes tested 
+32 
+20 
+Outliers excluded 
+8 
+6 
+Number of data points used 
+24 
+14 
+ 
+ 
+ 
+Based on analysis of the data presented in Figure E-4, a function for predicting the 
+20-minute value (believed to be the actual equilibrium value) from the 2-minute value was 
+developed. Knowing the suction at two minutes, the ratio between ψ20min and ψ2min could be 
+calculated as 
+⁡𝜓20𝑚𝑖𝑛𝜓2𝑚𝑖𝑛
+⁄
+= 1.011 −0.000061𝜓2𝑚𝑖𝑛 
+(E.1) 
+ 
+In order to account for the variability (scatter) in the measured data, a lower-bound 
+model, such one that has as a 95% confidence limit (Triola 1998), could be used, as shown in 
+Equation E.2. 
+𝜓20𝑚𝑖𝑛= 𝜓2𝑚𝑖𝑛∗{1.011 −0.000061𝜓2𝑚𝑖𝑛−0.04 ⌈0.042 + (𝜓2𝑚𝑖𝑛−63.8)2
+8446
+⌉
+0.5
+} 
+(E.2) 
+ 
+However, instead of using Equation E.2, a simple suction correction factor of 0.99, 
+based on the lower prediction at the mean of the data, is presented in Figure E-4. This 
+correction factor can provide a reasonable approximation to the more complex function. 
+Thus, the model in Equation E.3 can be obtained: 
+⁡𝜓20min𝑀𝐻= 0.99𝜓2𝑚𝑖𝑛 
+(E.3) 
+So, the 2min readings are essentially the same as the 20min readings. 
+
+==============================================================================
+PDF PAGE 25
+==============================================================================
+126 
+ 
+ 
+Figure E-4 SCF for A-7-5 (MH) soil by using best-fit function and lab tests of tube samples 
+ 
+The same procedures were followed using the data obtained from tests of the A-4 
+(ML) soil; the results are presented in Figure E-5 and Equations E.4, E.5, and E.6. 
+The ratio between ψ20min and ψ2min is 
+⁡𝜓20𝑚𝑖𝑛𝜓2𝑚𝑖𝑛
+⁄
+= 1.052 −0.0000483𝜓2𝑚𝑖𝑛 
+(E.4) 
+ 
+The 95% confidence limit at the lower bound is  
+𝜓20𝑚𝑖𝑛= 𝜓2𝑚𝑖𝑛
+∗{1.052 −0.000483𝜓2𝑚𝑖𝑛
+−0.066 ⌈0.071 + (𝜓2𝑚𝑖𝑛−41.8)2
+8518
+⌉
+0.5
+} 
+(E.5) 
+ 
+
+==============================================================================
+PDF PAGE 26
+==============================================================================
+127 
+ 
+The mean suction correction factor based on the mean of the data for the A-4 (ML) 
+soil is  
+⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡𝜓20min𝑀𝐿= 0.99𝜓2𝑚𝑖𝑛⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡ 
+(E.6) 
+ 
+ 
+ 
+ 
+Figure E-5 SCF for A-4 (ML) soil by using best-fit function and lab tests of tube samples 
+ 
+ 
+The simplified suction correction factor for both the A-7-5 (MH) and A-4 (ML) soils 
+is 0.99. So, for the lab-tested samples, the suction at two minutes essentially can be assumed 
+to be the same as the suction at 20 minutes. 
+ 
+ 
+
+==============================================================================
+PDF PAGE 27
+==============================================================================
+128 
+ 
+E.2 Measured soil water characteristic curves 
+Curve-fitting the experimental data 
+The experimental data of the SWCCs were curve-fitted using the Fredlund and Xing 
+(1994) model. The upper bound used in the pressure plate test was 500 kPa. The residual 
+matric suction was pre-designated as 3000 kPa. Fredlund and Xing (1994) found that the ψr, 
+residul matric suction is generally in the range of 1500 kPa to 3000 kPa and that it will 
+normally generate satisfactory approximation. Also, Vanapalli et al. (1996) used 3000 kPa as 
+the ψr for estimating unsaturated shear strength from SWCCs.  
+These studies provide the basis for using 3000 kPa as the residual matric suction in 
+the curve fitting in this study.  
+The SWCCs of the two soil types are shown in Figure E-6 and Figure E-7. The 
+parameters a, n, and m in the Fredlund-Xing model are shown in Table E-3. Some variability 
+in the measured SWCCs is evident for the same type of soils. This variability of the tested 
+SWCCs also was noted by Zapata et al. (2000). 
+ 
+
+==============================================================================
+PDF PAGE 28
+==============================================================================
+129 
+ 
+ 
+Figure E-6 Soil water characteristic curves of A-7-5 (MH) soil samples 
+ 
+Figure E-7 Soil water characteristic curves of A-4 (ML) soil samples 
+
+==============================================================================
+PDF PAGE 29
+==============================================================================
+130 
+ 
+ 
+Table E-3 Summary of soil properties for testing SWCCs 
+# 
+Depth 
+Type 
+P200 P2 μm Cu Cc LL PI 
+θs 
+Gs 
+ρd 
+a 
+n 
+m 
+AEV1 
+(ft) 
+(USCS) (AASHTO) 
+(%) 
+(%) 
+(g/cm3) 
+ 
+ 
+ 
+(kPa) 
+ST36 
+2.2 
+MH 
+A-7-5 
+83.5 
+22.3 
+30 2.8 50 16 0.541 2.69 
+1.23 
+14.9 0.78 0.60 
+2.1 
+ST47 
+2.2 
+MH 
+A-7-5 
+87.4 
+25.0 
+13 1.1 61 22 0.615 2.75 
+1.06 
+38.5 2.04 0.30 
+13.0 
+ST70 
+5.2 
+CL 
+A-7-5 
+72.1 
+17.1 
+32 0.8 45 19 0.533 2.70 
+1.26 
+30.9 0.85 0.64 
+5.1 
+ST38 
+8.2 
+MH 
+A-7-5 
+94.6 
+21.5 
+14 1.5 61 21 0.611 2.72 
+1.06 
+36.3 1.64 0.61 
+11.4 
+ST50 
+10.2 
+MH 
+A-7-5 
+88.5 
+14.9 
+12 2.4 59 23 0.594 2.79 
+1.13 
+72.4 1.14 0.97 
+18.0 
+ST40 
+18.0 
+MH 
+A-7-5 
+85.8 
+8.8 
+8 
+1.1 58 16 0.580 2.74 
+1.15 
+49.8 0.76 1.63 
+8.8 
+ST61 
+10.0 
+ML 
+A-4 
+81.3 
+16.1 
+12 0.8 34 
+8 
+0.422 2.78 
+1.61 
+44.6 1.65 0.33 
+13.4 
+ST28 
+15.2 
+ML 
+A-4 
+66.3 
+8.8 
+9 
+0.9 36 
+7 
+0.435 2.69 
+1.52 
+49.9 1.66 1.03 
+16.7 
+ST64 
+27.0 
+ML 
+A-7-5 
+84.7 
+2.2 
+4 
+1.1 45 12 0.442 2.81 
+1.57 
+69.2 1.03 1.73 
+17.8 
+ST32 
+34.2 
+ML 
+A-4 
+53.1 
+4.7 
+32 0.3 38 
+8 
+0.509 2.77 
+1.36 
+73.6 
+1.1 
+1.45 
+19.2 
+ST79 
+44.2 
+ML 
+A-4 
+60.5 
+3.8 
+14 0.6 28 
+3 
+0.456 2.83 
+1.54 
+33 
+1.42 1.12 
+10.1 
+ST34 
+44.3 
+ML 
+A-4 
+61.5 
+7.3 
+14 0.8 38 10 0.490 2.79 
+1.43 
+36.3 1.01 1.32 
+8.5 
+    Note: 1. AEV (air entry value) is calculated based on Zhai and Rahardjo (2012) equation. 
+
+==============================================================================
+PDF PAGE 30
+==============================================================================
+131 
+ 
+New Model Development Using Multivariate Regression Analysis 
+For the new model development, SWCCs of twelve samples were determined: six 
+high plasticity and six low plasticity silty soils. The corresponding soil properties also were 
+tested. The first step was to include as many properties as possible in the statistical analysis 
+because no physical theory was available to support which properties should be included or 
+excluded. Also, some of the possible parameters might have an effect on the curvature of the 
+SWCCs. So, the rule of thumb principle was employed to include as many soil index 
+properties as possible. Three categories of soil properties were included for the new model 
+development: grain size distribution, Atterberg limits, and volume-mass relationships. 
+The SWCCs were determined using pore size distribution, which correlates directly 
+with grain size distribution. The included parameters are: P200, P5 μm (percentage passing 5 
+μm), P2 μm (percentage passing 2 μm), D10, D30, D60, Cu, Cc, LL, PI, Gs, and ρd.  
+The so-called ‘Best’ subsets algorithm (a built-in block in MINITAB) was used to 
+determine the necessary variables for the model. A group of ‘Best’ subsets, which included 
+different independent variables, was correlated with the response variable in the form of 
+𝑌= 𝛽0 + 𝛽1𝑋1 + ⋯ 
+𝑌= 𝛽0 + 𝛽1𝑋1 + 𝛽2𝑋2 + ⋯ 
+𝑌= 𝛽0 + 𝛽1𝑋1 + 𝛽2𝑋2 + 𝛽3𝑋3 + ⋯ 
+These subsets were generated by the MINITAB program. The detailed theory and 
+procedures are explained in Neter et al. (1996). Three criteria were used to determine the 
+best-fit function: R2
+, adjusted-R2
+, and predicted-R2. R2
+ is the percentage of the response 
+variable variation that is explained by the predictor variables. The adjusted-R2
+ criterion is the 
+R2
+ value adjusted for the number of predictors in the model. The predicted-R2
+ can prevent 
+over-fitting the models. In general, R2
+ and adjusted-R2 will be higher if more predictor 
+variables are included, even when some variables are not necessary. Over-fitted models will 
+give better R2 and adjusted- R2 values, but fail to generate valid predictions for future data 
+(Ryan et al. 1982). The results of the best subsets analysis from MINITAB are presented in 
+Table E-4.    
+
+==============================================================================
+PDF PAGE 31
+==============================================================================
+132 
+ 
+Table E-4 Example of Best Subsets Analysis for a Values 
+                                                                                         
+                                                1 1 1 
+                                            P   / / / 
+                                            2 5 D D D       D D 
+             R-Sq    R-Sq  Mallows          0 μ 1 3 6 C G ρ 3 6 
+Vars  R-Sq  (adj)  (pred)       Cp       S  0 m 0 0 0 u s d 0 0 
+   1  33.5   26.8     9.6      2.8  15.552      X 
+   1  23.0   15.3     0.0      4.5  16.733    X 
+   2  44.2   31.8     0.6      3.0  15.015      X   X 
+   2  39.6   26.2     0.0      3.8  15.621  X   X 
+   3  60.9   46.3     0.0      2.3  13.324      X   X         X 
+   3  60.3   45.4     0.0      2.4  13.431      X   X X 
+   4  86.5   78.8    50.0      0.2  8.3740      X X X X 
+   4  83.8   74.6    33.8      0.6  9.1659    X X   X X 
+   5  92.3   85.8    69.3      1.3  6.8418      X X X X   X 
+   5  89.5   80.7    54.5      1.7  7.9832    X X   X X   X 
+   6  92.9   84.4     0.0      3.1  7.1797      X X X X   X   X 
+   6  92.7   84.0    60.2      3.2  7.2801    X X X X X   X 
+   7  93.7   82.8     0.0      5.0  7.5463    X X X X X   X   X 
+   7  93.3   81.6     0.0      5.1  7.7992      X X X X   X X X 
+   8  93.8   77.3     0.0      7.0  8.6586    X X X X X X X   X 
+   8  93.7   77.0     0.0      7.0  8.7133    X X X X X   X X X 
+   9  93.8   66.0     0.0      9.0  10.601  X X X X X X X X   X 
+   9  93.8   66.0     0.0      9.0  10.602    X X X X X X X X X 
+  10  93.8   32.1     0.0     11.0  14.986  X X X X X X X X X X 
+ 
+ 
+ 
+The best subsets analysis indicates that the related soil properties with a, n, and m can 
+be considered as the following general forms of functions: 
+a = f( 1
+D10
+, 1
+D30
+, 1
+D60
+, D60
+D10
+, ρd) 
+(E.6) 
+ 
+n = f(P200, 1
+D30
+, D60
+D10
+, ρd, D30, D60) 
+(E.7) 
+ 
+m = f(P200, 5μm, Gs, ρd) 
+(E.8) 
+ 
+ 
+ 
+Next, multivariate linear regression analysis was performed to determine which 
+explanatory variables should be incorporated into the function. The criterion to determine the 
+significance of each explanatory variable is the P-value. A hypothesis test was performed to 
+determine the coefficient of each explanatory variable. If the P-value for the coefficient of 
+one explanatory variable was higher than 0.05, this coefficient was considered as zero, and 
+
+==============================================================================
+PDF PAGE 32
+==============================================================================
+133 
+ 
+the corresponding explanatory variable was considered insignificant and was excluded from 
+the model. So, after the first-step refinement, the insignificant variable, D30 in the equation 
+E.6 with P-value = 0.165, was excluded from the model. The P-value of each term is shown 
+in Table E-5. 
+ 
+ 
+Table E-5 P-values for Choosing the Terms in Prediction Model 
+a 
+n 
+m 
+Term 
+P-value 
+Term 
+P-value 
+Term 
+P-value 
+1
+D60
+ 
+0.001 
+P200 
+0.049 
+P200 
+0.036 
+1
+D30
+ 
+0.008 
+D60 
+0.000 
+5μm 
+0.000 
+1
+D10
+ 
+0.002 
+1
+𝐷30
+ 
+0.000 
+Gs 
+0.012 
+D60
+D10
+ 
+0.004 
+D60
+D10
+ 
+0.012 
+ρd 
+0.000 
+ 
+ 
+ρd 
+0.006 
+ 
+ 
+ 
+The prediction models for each Fredlund-Xing a, n, and m parameter are  
+a = 17.2 + 1.89
+D60
+−0.363
+D30
+−0.063
+D10
++ 2.5 ∗D60
+D10
+ 
+(E.9) 
+n = −0.105 −0.018 ∗P200 + 9.55 ∗D60 + 0.012
+𝐷30
+−0.057 ∗D60
+D10
++ 1.203 ∗ρd 
+(E.10) 
+m = 11.24 + 0.0074 ∗P200 −0.075 ∗5μm −2.665 ∗Gs −1.452 ∗ρd 
+(E.11) 
+ 
+Testing New Model Using Data from Rahardjo et al. (2012) 
+The proposed model was tested using the unsaturated properties tested by Rahardjo 
+(2012) who had studied residual soils in Singapore. The soil water characteristic curve of 
+
+==============================================================================
+PDF PAGE 33
+==============================================================================
+134 
+ 
+residual soils were obtained from soils at three locations: sedimentary Jurong Formation, 
+Bukit Timah Granite and Old Alluvium in Singapore. The silty material from Bukit Timah 
+Granite was used for testing the model here since it is similar to the soil in this study. 
+The grain size distribution from Rahardjo (2012) is presented in Figure E-8. But the 
+specific gravity and dry density information at this location wasn’t explicitly mentioned in 
+Rahardjo (2012). So, the specific gravity and dry density is respectively set to be default 
+values of 2.7 and 1.2 g/cm3, respectively, both believed to be reasonable assumptions for 
+residual soils. The predicted SWCC by the proposed model is compared with the measured 
+data in Figure E-9. 
+ 
+ 
+Figure E-8 Grain size distribution of residual soil from Bukit Timah Granite (Rahardjo, 
+2012) 
+ 
+agr=1.68 
+ngr=1.66 
+mgr=0.98 
+
+==============================================================================
+PDF PAGE 34
+==============================================================================
+135 
+ 
+ 
+Figure E-9 Drying SWCC of residual soil from Bukit Timah Granite vs the predicted SWCC 
+ 
+ 
+The predicted SWCC from the proposed model shows a reasonably good agreement 
+with the upper bound of SWCC from Bukit Timah Granite. And this also suggests that 
+without the specific data of specific gravity and dry density, the default values of specific 
+gravity, 2.7 and dry density, 1.2 g/cm3 be used for predicting SWCCs.  
+ 
+Adjust to field SWCC 
+ 
+
+==============================================================================
+PDF PAGE 35
+==============================================================================
+136 
+ 
+ 
+Figure E-10 Field curve determination 
+ 
+Prediction of the change in the suction profile by the proposed model 
+Since the suction profiles were monitored, the proposed suction prediction model in 
+section 4 is used here to produce the predicted change of suction profiles. Since the changed 
+of suction at sheet pile wall and 0.5:1 slope area is obvious, the soil properties at those two 
+locations were used here to produce the predicted suction profiles in order to study the 
+predictive ability of the model. By using the measured soil properties, such as grain size 
+distribution, specific gravity and density information, the SWCC parameters can be predicted 
+by the proposed model which was expressed as equation E.9, E.10 and E.11. The soil 
+properties and predicted SWCC parameters is shown in Figure E-4and Figure E-5. This 
+analysis only used the soil properties above upper 10 ft since the monitored change of suction 
+profiles was only at upper 10ft of soil layers.  The predicted SWCCs for the soils at sheet pile 
+wall and 0.5:1 slope area are shown in Figure E-11 to Figure E-14. 
+ 
+ 
+
+==============================================================================
+PDF PAGE 36
+==============================================================================
+137 
+ 
+Table E-6 Soil properties at sheet pile wall and predicted SWCC parameters by the proposed 
+model 
+Depth 
+(ft) 
+# 
+D60 
+(mm) 
+D30 
+(mm) 
+D10 
+(mm) 
+5μm 
+(%) 
+ρd 
+(g/cm3) 
+Gs 
+θs 
+a 
+n 
+m 
+5.2 
+70 
+0.035 
+0.006 
+0.001 
+27.7 
+1.26 
+2.7 
+0.51 
+29.8 
+0.74 
+0.67 
+13.2 
+72 
+0.039 
+0.014 
+0.002 
+16.2 
+1.73 
+2.71 
+0.61 
+54.6 
+0.9 
+0.85 
+ 
+Table E-7 Soil properties at 0.5:1 slope and predicted SWCC parameters by the proposed 
+model 
+Depth 
+(ft) 
+# 
+D60 
+(mm) 
+D30 
+(mm) 
+D10 
+(mm) 
+5μm 
+(%) 
+ρd 
+(g/cm3) 
+Gs 
+θs 
+a 
+n 
+m 
+4 
+36 
+0.015 
+0.005 
+0.0005 
+32.5 
+1.24 
+2.69 
+0.54 
+12.9 
+0.91 
+0.46 
+7 
+37 
+0.013 
+0.003 
+0.002 
+35.9 
+1.15 
+2.72 
+0.58 
+30.9 
+3.12 
+0.29 
+ 
+ 
+Figure E-11 Predicted SWCC and field curve at 5.2 ft of sheet pile wall area 
+ 
+ 
+
+==============================================================================
+PDF PAGE 37
+==============================================================================
+138 
+ 
+ 
+Figure E-12 Predicted SWCC and field curve at 13.2 ft of sheet pile wall area 
+ 
+ 
+ 
+Figure E-13 Predicted SWCC and field curve at 4 ft of 0.5:1 slope area 
+ 
+
+==============================================================================
+PDF PAGE 38
+==============================================================================
+139 
+ 
+ 
+Figure E-14 Predicted SWCC and field curve at 7 ft of 0.5:1 slope area 
+ 
+
+==============================================================================
+PDF PAGE 39
+==============================================================================
+140 
+ 
+Appendix F. Measurement and prediction of unsaturated shear 
+strength  
+Unsaturated shear strength is an important factor for the applications of slope stability 
+and cantilever sheet pile wall design. Therefore, in this chapter, measured unsaturated shear 
+strength values from unsaturated triaxial tests are presented, and prediction models are also 
+evaluated. 
+Two types of unsaturated triaxial tests were performed in this research: axial 
+compression test and lateral extension test. The majority of specimens were tested as axial 
+compression test, and only few are tested as lateral extension test. 
+F.1 Measured stress strain curves of unsaturated triaxial tests 
+Three components were shown here for the measure strengths from triaxial tests: 
+equilibrium, stress-strain response and shear strength. 
+Unsaturated triaxial axial compression test 
+Specimen equilibrium process in triaxial tests 
+The monitoring of the water outflow is used to indicate when the specimen has 
+reached equilibrium. When the specimen approaches equilibrium, the flow rate of water 
+moving out of the specimen becomes very low or almost zero. Several equalization times 
+were attempted in this research. Figure F-1 shows the amount of water released from 
+specimen recorded every 12 hours, normalized with respect to the initial volume of water in 
+the specimen. During the first 12 hours, the highest volume is released, with the rate 
+decreasing over time. Toward equilibrium, the value of water released per 12 hours per initial 
+volume of water is less than 0.12 %, which is used herein as the criteria for equilibrium. This 
+equilibrium rate is defined at an outflow rate of less than 0.01 %/hr. 
+
+==============================================================================
+PDF PAGE 40
+==============================================================================
+141 
+ 
+ 
+Figure F-1 Volume of water released per day divided by initial volume versus days 
+ 
+ 
+Measured shear strength  
+Total of 46 unsaturated triaxial tests were performed in this research, including 20 
+single stage tests and 26 multistage tests. Table C1 to C3 are the test conditions and 
+measured peak stress, dry density and degree of saturation of each shearing. Figure C1 to 
+C46 are the stress strain curves and basic properties of specimens, including index properties 
+and photo of each specimen.  
+1. The order of the figures for each individual specimen follows the orders in the 
+table, based on the area of the specimen: 0.5:1 Slope (405+70), 0.25:1 Slope 
+(404+50), 1:1 Slope (403+45) and sheet pile (404+50). 
+2. The definition of clay, silt and sand are according to NCDOT’s lab report, which 
+are <0.005 mm for clay, 0.05-0.005 mm for silt and 0.05-0.25 for fine sand. 
+
+==============================================================================
+PDF PAGE 41
+==============================================================================
+142 
+ 
+3. The grain size distribution tests were performed for each specimen, but Atterberg 
+limit tests were performed for each tube only, because more soil is needed for 
+Atteburg test. 
+4. The values of matric suction and degree of saturation shown in the Tables are 
+values applied and measured in the test, but the values shown on the charts above 
+stress strain curves are the measurement taken on the tube by tensiometer. 
+ 
+Table F-1 Test conditions and measured data (single stage test) 
+ 
+      S: Degree of saturation 
+ 
+Depth
+m
+kPa
+kPa
+kPa
+ST-36
+0.6-1.2
+27.6
+152.0
+264.5
+1.27
+0.60
+ST-91
+3.0-3.5
+69.0
+27.6
+187.5
+1.30
+0.92
+ST-40
+3.1-3.7
+34.5
+34.5
+160.0
+1.16
+0.75
+ST-42
+8.5-9.1
+75.8
+20.7
+200.5
+1.32
+0.98
+ST-43
+10.3-10.9
+103.4
+13.8
+388.9
+1.67
+0.98
+ST-94
+12.0-12.6
+113.8
+37.9
+433.7
+1.36
+0.94
+ST-47
+0.7-1.3
+82.7
+89.6
+292.8
+1.09
+0.65
+ST-124
+1.2-1.8
+137.9
+62.1
+353.0
+1.20
+0.81
+ST-50
+3.0-3.5
+41.4
+62.1
+197.2
+1.11
+0.71
+ST-53
+7.7-8.3
+82.7
+27.6
+202.7
+1.17
+0.92
+ST-54
+9.2-9.8
+93.1
+24.1
+239.9
+1.36
+0.94
+ST-59B
+0.5-1.0
+20.7
+72.4
+175.1
+1.74
+0.52
+ST-60
+1.5-2.0
+20.7
+55.2
+175.1
+1.82
+0.61
+ST-114B
+0.5-1.1
+82.7
+55.2
+336.5
+1.72
+0.63
+ST-116E
+0.5-1.1
+137.9
+10.3
+392.3
+1.76
+0.79
+ST-65A
+9.4-10.0
+82.7
+31.0
+388.2
+1.67
+0.98
+ST-65B
+9.4-10.0
+100.0
+31.0
+432.3
+1.71
+0.99
+ST-75
+7.4-8.0
+75.8
+27.6
+281.3
+1.63
+0.88
+ST-77
+8.0-8.5
+69.0
+55.2
+315.8
+1.61
+0.85
+ST-85
+10.0-10.5
+103.4
+27.6
+330.3
+1.53
+0.83
+Area
+ML
+0.5:1 
+Slope
+MH
+MH
+SC
+Sheet 
+pile
+1:1 
+Slope
+0.25:1 
+Slope
+ML
+S
+Soil 
+type
+#
+𝜎 ,𝑛  
+𝑢𝑎−𝑢𝑤
+𝜎 ,  𝑎 
+  
+ 𝑐 3
+⁄
+
+==============================================================================
+PDF PAGE 42
+==============================================================================
+143 
+ 
+Table F-2 Test conditions and measured data (multiple stage test for specimens from slope 
+area) 
+ 
+ 
+Depth
+m
+kPa
+kPa
+kPa
+1st
+20.7
+82.7
+177.4
+1.19
+0.54
+2nd
+20.7
+124.1
+195.6
+1.21
+0.49
+1st
+20.7
+93.1
+177.2
+1.08
+0.65
+2nd
+20.7
+124.1
+197.2
+1.09
+0.60
+1st
+27.6
+75.8
+186.5
+1.15
+0.63
+2nd
+27.6
+137.9
+180.1
+1.16
+0.59
+1st
+27.6
+20.7
+103.4
+1.08
+0.91
+2nd
+27.6
+89.6
+195.1
+1.09
+0.65
+1st
+20.7
+55.2
+146.1
+1.08
+0.67
+2nd
+20.7
+82.7
+166.2
+1.09
+0.61
+1st
+34.5
+55.2
+143.5
+1.10
+0.66
+2nd
+34.5
+106.9
+207.3
+1.11
+0.59
+1st
+24.1
+75.8
+168.2
+1.13
+0.65
+2nd
+24.1
+120.7
+202.7
+1.13
+0.62
+1st
+24.1
+27.6
+111.7
+1.12
+0.90
+2nd
+24.1
+89.6
+169.6
+1.12
+0.69
+3rd
+24.1
+137.9
+206.2
+1.13
+0.58
+1st
+41.4
+44.8
+159.3
+1.08
+0.76
+2nd
+41.4
+89.6
+200.0
+1.09
+0.72
+1st
+62.1
+31.0
+215.5
+1.19
+0.91
+2nd
+62.1
+62.1
+266.3
+1.20
+0.86
+1st
+131.0
+10.3
+318.4
+1.69
+0.90
+2nd
+131.0
+41.4
+366.5
+1.69
+0.79
+3rd
+131.0
+62.1
+377.8
+1.70
+0.70
+1st
+20.7
+20.7
+136.5
+1.83
+0.61
+2nd
+20.7
+137.9
+252.4
+1.83
+0.43
+1st
+20.7
+10.3
+89.5
+1.79
+0.69
+2nd
+20.7
+103.4
+206.2
+1.79
+0.58
+1st
+41.4
+41.4
+174.4
+1.72
+0.81
+2nd
+41.4
+69.0
+218.6
+1.73
+0.78
+1st
+75.8
+34.5
+237.9
+1.68
+0.80
+2nd
+75.8
+69.0
+257.9
+1.69
+0.70
+Area
+1:1 
+Slope
+0.25:1 
+Slope
+0.5:1 
+Slope
+ML
+13.6-14.2
+4.0-4.5
+7.5-8.0
+0.5-1.0
+0.5-1.0
+ML
+ST-59C
+SC
+ST-37A
+2.0-2.5
+ST-37B
+2.0-2.5
+ST-38A
+S
+ST-38B
+ST-49A
+Soil 
+type
+#
+Stage
+4.9-5.5
+4.9-5.5
+MH
+ST-49B
+ST-51
+2.5-3.0
+2.5-3.0
+2.0-2.5
+ST-39A
+ST-39B
+ST-52
+ST-57
+ST-59A
+3.0-3.5
+2.0-2.5
+5.6-6.2
+ST-62
+ST-64
+𝜎 ,𝑛  
+𝑢𝑎
+𝜎 ,  𝑎 
+  
+ 𝑐 3
+⁄
+
+==============================================================================
+PDF PAGE 43
+==============================================================================
+144 
+ 
+Table F-3 Test conditions and measured data (multiple stage test for specimens from sheet 
+pile area) 
+Depth
+m
+kPa
+kPa
+kPa
+1st
+20.7
+96.5
+150.1
+1.24
+0.42
+2nd
+20.7
+117.2
+163.6
+1.25
+0.39
+3rd
+41.4
+117.2
+199.6
+1.26
+0.39
+4th
+62.1
+117.2
+236.9
+1.26
+0.39
+1st
+48.3
+6.9
+133.6
+1.40
+0.84
+2nd
+48.3
+48.3
+196.2
+1.40
+0.70
+3rd
+96.5
+48.3
+311.9
+1.41
+0.71
+1st
+41.4
+75.8
+161.7
+1.43
+0.49
+2nd
+41.4
+103.4
+190.9
+1.43
+0.44
+3rd
+41.4
+124.1
+217.4
+1.43
+0.41
+1st
+62.1
+55.2
+272.0
+1.73
+0.71
+2nd
+62.1
+82.7
+321.7
+1.73
+0.69
+1st
+117.2
+20.7
+318.0
+1.55
+0.89
+2nd
+117.2
+55.2
+388.2
+1.55
+0.67
+3rd
+117.2
+75.8
+443.3
+1.56
+0.62
+1st
+89.6
+6.9
+253.3
+1.56
+0.81
+2nd
+89.6
+27.6
+316.1
+1.56
+0.80
+3rd
+89.6
+55.2
+351.2
+1.56
+0.73
+1st
+44.8
+6.9
+173.4
+1.54
+0.78
+2nd
+89.6
+6.9
+254.0
+1.57
+0.77
+3rd
+89.6
+27.6
+288.9
+1.57
+0.75
+1st
+89.6
+27.6
+319.5
+1.71
+0.82
+2nd
+62.1
+56.2
+357.2
+1.71
+0.77
+3rd
+62.1
+82.7
+383.5
+1.72
+0.71
+1st
+144.8
+13.8
+288.6
+1.63
+0.90
+2nd
+144.8
+41.4
+374.9
+1.64
+0.83
+3rd
+131.0
+89.6
+469.1
+1.64
+0.63
+1st
+144.8
+27.6
+409.1
+1.66
+0.87
+2nd
+144.8
+69.0
+500.6
+1.68
+0.65
+3rd
+144.8
+96.5
+550.9
+1.68
+0.56
+1st
+69.0
+6.9
+234.3
+1.66
+0.89
+2nd
+124.1
+6.9
+297.9
+1.66
+0.89
+3rd
+124.1
+55.2
+389.9
+1.67
+0.72
+4th
+165.5
+55.2
+468.8
+1.68
+0.72
+ST-87
+Soil 
+type
+#
+ST-80B
+ST-80A
+ST-83
+ST-74
+ST-79A
+ST-79B
+ST-81
+ST-34B
+ST-34A
+ST-30
+Stage
+S
+13.5-14.1
+2.4-3.0
+14.1-14.7
+5.5-6.1
+6.3-6.9
+11.5-12.0
+13.5-14.1
+4.9-5.5
+Sheet 
+pile
+Area
+15.0-15.5
+15.0-15.5
+ML
+14.1-14.7
+𝜎 ,𝑛  
+𝑢𝑎−𝑢𝑤
+𝜎 ,  𝑎 
+  
+ 𝑐 3
+⁄
+
+==============================================================================
+PDF PAGE 44
+==============================================================================
+145 
+ 
+ 
+ 
+Figure F-2 ST-36, net confining pressure = 28 kPa 
+ 
+Figure F-3 ST-91, net confining pressure = 69 kPa 
+ 
+ 
+Location
+405 + 70,  3LT
+Number
+ST-36
+Depth (m)
+0.6-1.2
+Specific Gravity
+2.69
+% of Clay
+26
+% of Silt
+46
+% of Fine Sand
+15
+% of Coarse Sand
+13
+Passing #200
+74
+Passing #40
+91
+Passing #10
+99
+Liquid Limit
+50
+Plastic index
+16
+AASHTO Classification
+A-7-5
+Water content
+28.6%
+Degree of saturation
+63.0%
+Matric suction
+86 kPa
+Position of 
+the soil 
+speciman
+Soil 
+properties 
+and 
+classifiction
+Initial 
+measured 
+parameters
+Location
+405 + 70,  9RT
+Number
+ST-91A
+Depth (m)
+3.0-3.5
+Specific Gravity
+2.83
+% of Clay
+25
+% of Silt
+54
+% of Fine Sand
+16
+% of Coarse Sand
+5
+Passing #200
+83
+Passing #40
+97
+Passing #10
+100
+Liquid Limit
+53
+Plastic index
+15
+AASHTO Classification
+A-7-5
+Water content
+35.2%
+Degree of saturation
+83.4%
+Matric suction
+54 kPa
+Position of 
+the soil 
+speciman
+Soil 
+properties 
+and 
+classifiction
+Intial 
+measured 
+parameters
+
+==============================================================================
+PDF PAGE 45
+==============================================================================
+146 
+ 
+ 
+ 
+ 
+Figure F-4 ST-40, net confining pressure = 35 kPa 
+ 
+Figure F-5 ST-42, net confining pressure = 76 kPa 
+*Specimen located in the transition zone between MH and ML soils 
+ 
+Location
+405 + 70,  3LT
+Number
+ST-40
+Depth (m)
+3.1-3.7
+Specific Gravity
+2.74
+% of Clay
+12
+% of Silt
+55
+% of Fine Sand
+19
+% of Coarse Sand
+14
+Passing #200
+70
+Passing #40
+92
+Passing #10
+100
+Liquid Limit
+-
+Plastic index
+-
+AASHTO Classification
+-
+Water content
+42.2%
+Degree of saturation
+74.0%
+Matric suction
+45.7 kPa
+Soil 
+properties 
+and 
+classifiction
+Initial 
+measured 
+parameters
+Position of 
+the soil 
+speciman
+Location
+405 + 70,  3LT
+Number
+ST-42
+Depth (m)
+8.5-9.1
+Specific Gravity
+2.78
+% of Clay
+16
+% of Silt
+69
+% of Fine Sand
+12
+% of Coarse Sand
+3
+Passing #200
+87
+Passing #40
+99
+Passing #10
+100
+Liquid Limit
+50
+Plastic index
+13
+AASHTO Classification
+A-7-5
+Water content
+42.6%
+Degree of saturation
+97.0%
+Matric suction
+17.5 kPa
+Position of 
+the soil 
+speciman
+Soil 
+properties 
+and 
+classifiction
+Intial 
+measured 
+parameters
+
+==============================================================================
+PDF PAGE 46
+==============================================================================
+147 
+ 
+ 
+ 
+ 
+Figure F-6 ST-43, net confining pressure = 103 kPa 
+ 
+Figure F-7 ST-94, , net confining pressure = 114 kPa 
+ 
+ 
+Location
+405 + 70,  3LT
+Number
+ST-43
+Depth (m)
+10.3-10.9
+Specific Gravity
+2.81
+% of Clay
+6
+% of Silt
+64
+% of Fine Sand
+23
+% of Coarse Sand
+7
+Passing #200
+77
+Passing #40
+97
+Passing #10
+99
+Liquid Limit
+31
+Plastic index
+4
+AASHTO Classification
+A-4
+Water content
+20.1%
+Degree of saturation
+96.0%
+Matric suction
+13.9 kPa
+Initial 
+measured 
+parameters
+Position of 
+the soil 
+speciman
+Soil 
+properties 
+and 
+classifiction
+Location
+405 + 70,  9RT
+Number
+ST-94
+Depth (m)
+12.0-12.6
+Specific Gravity
+2.88
+% of Clay
+10
+% of Silt
+52
+% of Fine Sand
+19
+% of Coarse Sand
+19
+Passing #200
+65
+Passing #40
+88
+Passing #10
+95
+Liquid Limit
+51
+Plastic index
+14
+AASHTO Classification
+A-7-5
+Water content
+34.0%
+Degree of saturation
+92.0%
+Matric suction
+38.8 kPa
+Initial 
+measured 
+parameters
+Position of 
+the soil 
+speciman
+Soil 
+properties 
+and 
+classifiction
+
+==============================================================================
+PDF PAGE 47
+==============================================================================
+148 
+ 
+ 
+ 
+ 
+Figure F-8 ST-47, net confining pressure = 83 kPa 
+ 
+Figure F-9 ST-124, net confining pressure = 138 kPa 
+ 
+ 
+Location
+404 + 50,  3LT
+Number
+ST-47B
+Depth (m)
+0.7-1.3
+Specific Gravity
+2.75
+% of Clay
+38
+% of Silt
+48
+% of Fine Sand
+12
+% of Coarse Sand
+2
+Passing #200
+88
+Passing #40
+98
+Passing #10
+100
+Liquid Limit
+61
+Plastic index
+22
+AASHTO Classification
+A-7-5
+Water content
+36.8%
+Degree of saturation
+67.0%
+Matric suction
+68 kPa
+Position of 
+the soil 
+speciman
+Soil 
+properties 
+and 
+classifiction
+Initial 
+measured 
+parameters
+Location
+404 + 50,  4.5LT
+Number
+ST-124
+Depth (m)
+1.2-1.8
+Specific Gravity
+2.81
+% of Clay
+21
+% of Silt
+51
+% of Fine Sand
+15
+% of Coarse Sand
+13
+Passing #200
+75
+Passing #40
+91
+Passing #10
+99
+Liquid Limit
+-
+Plastic index
+-
+AASHTO Classification
+A-7-5
+Water content
+36.1%
+Degree of saturation
+-
+Matric suction
+73.4 kPa
+Soil 
+properties 
+and 
+classifiction
+Position of 
+the soil 
+speciman
+Initial 
+measured 
+parameters
+
+==============================================================================
+PDF PAGE 48
+==============================================================================
+149 
+ 
+ 
+ 
+ 
+Figure F-10 ST-50, net confining pressure = 41 kPa 
+ 
+Figure F-11 ST-53, net confining pressure = 83 kPa 
+ 
+ 
+Location
+404 + 50,  3LT
+Number
+ST-50B
+Depth (m)
+3.2-3.7
+Specific Gravity
+2.79
+% of Clay
+22
+% of Silt
+61
+% of Fine Sand
+9
+% of Coarse Sand
+8
+Passing #200
+85
+Passing #40
+100
+Passing #10
+100
+Liquid Limit
+59
+Plastic index
+23
+AASHTO Classification
+A-7-5
+Water content
+40.2%
+Degree of saturation
+76.0%
+Matric suction
+63 kPa
+Position of 
+the soil 
+speciman
+Soil 
+properties 
+and 
+classifiction
+Initial 
+measured 
+parameters
+Location
+404 + 50,  3LT
+Number
+ST-53
+Depth (m)
+7.7-8.3
+Specific Gravity
+2.81
+% of Clay
+20
+% of Silt
+59
+% of Fine Sand
+16
+% of Coarse Sand
+5
+Passing #200
+81
+Passing #40
+98
+Passing #10
+100
+Liquid Limit
+65
+Plastic index
+18
+AASHTO Classification
+A-7-5
+Water content
+42.3%
+Degree of saturation
+97.0%
+Matric suction
+4.2 psi
+Position of 
+the soil 
+speciman
+Soil 
+properties 
+and 
+classifiction
+Initial 
+measured 
+parameters
+
+==============================================================================
+PDF PAGE 49
+==============================================================================
+150 
+ 
+ 
+ 
+Figure F-12 ST-54, net confining pressure = 93 kPa 
+ 
+Figure F-13 ST-59B, net confining pressure = 21 kPa 
+ 
+ 
+Location
+404 + 50,  3LT
+Number
+ST-54
+Depth (m)
+9.2-9.8
+Specific Gravity
+2.7
+% of Clay
+15
+% of Silt
+60
+% of Fine Sand
+21
+% of Coarse Sand
+4
+Passing #200
+79
+Passing #40
+99
+Passing #10
+99
+Liquid Limit
+51
+Plastic index
+15
+AASHTO Classification
+A-7-5
+Water content
+24.3%
+Degree of saturation
+88.0%
+Matric suction
+23.6 kPa
+Initial 
+measured 
+parameters
+Position of 
+the soil 
+speciman
+Soil 
+properties 
+and 
+classifiction
+Location
+403 + 45,  3LT
+Number
+ST-59B
+Depth (m)
+0.6-1.3
+Specific Gravity
+2.7
+% of Clay
+10
+% of Silt
+17
+% of Fine Sand
+18
+% of Coarse Sand
+55
+Passing #200
+92
+Passing #40
+56
+Passing #10
+31
+Liquid Limit
+37
+Plastic index
+13
+AASHTO Classification
+A-2-6
+Water content
+12.6%
+Degree of saturation
+72.0%
+Matric suction
+76 kPa
+Soil 
+properties 
+and 
+classifiction
+Position of 
+the soil 
+speciman
+Intial 
+measured 
+parameters
+
+==============================================================================
+PDF PAGE 50
+==============================================================================
+151 
+ 
+ 
+ 
+Figure F-14 ST-60, net confining pressure = 21 kPa 
+ 
+Figure F-15 ST-114B, net confining pressure = 83 kPa 
+ 
+ 
+Location
+403 + 45,  3LT
+Number
+ST-60
+Depth (m)
+1.6-2.1
+Specific Gravity
+2.67
+% of Clay
+6
+% of Silt
+22
+% of Fine Sand
+18
+% of Coarse Sand
+54
+Passing #200
+30
+Passing #40
+59
+Passing #10
+95
+Liquid Limit
+34
+Plastic index
+11
+AASHTO Classification
+A-2-6
+Water content
+15.0%
+Degree of saturation
+76.5%
+Matric suction
+78 kPa
+Soil 
+properties 
+and 
+classifiction
+Initial 
+measured 
+parameters
+Position of 
+the soil 
+speciman
+Location
+403 + 45,  1RT
+Number
+ST-114B
+Depth (m)
+0.1-0.6
+Specific Gravity
+2.71
+% of Clay
+8
+% of Silt
+21
+% of Fine Sand
+16
+% of Coarse Sand
+55
+Passing #200
+31
+Passing #40
+61
+Passing #10
+98
+Liquid Limit
+-
+Plastic index
+-
+AASHTO Classification
+A-2-6
+Water content
+10.0%
+Degree of saturation
+-
+Matric suction
+71.8 kPa
+Soil 
+properties 
+and 
+classifiction
+Initial 
+measured 
+parameters
+Position of 
+the soil 
+speciman
+
+==============================================================================
+PDF PAGE 51
+==============================================================================
+152 
+ 
+ 
+ 
+Figure F-16 ST-116E, net confining pressure = 138 kPa 
+ 
+Figure F-17 ST-65A, net confining pressure = 83 kPa 
+ 
+ 
+Location
+403 + 45,  4LT
+Number
+ST-116E
+Depth (m)
+0.1-0.6
+Specific Gravity
+2.72
+% of Clay
+12
+% of Silt
+26
+% of Fine Sand
+17
+% of Coarse Sand
+45
+Passing #200
+40
+Passing #40
+70
+Passing #10
+99
+Liquid Limit
+-
+Plastic index
+-
+AASHTO Classification
+A-2-6
+Water content
+13.3%
+Degree of saturation
+-
+Matric suction
+34.2 kPa
+Soil 
+properties 
+and 
+classifiction
+Position of 
+the soil 
+speciman
+Initial 
+measured 
+parameters
+Location
+403 + 45,  3LT
+Number
+ST-65A
+Depth
+28.2-30.1
+Specific Gravity
+2.86
+% of Clay
+9
+% of Silt
+51
+% of Fine Sand
+36
+% of Coarse Sand
+4
+Passing #200
+72
+Passing #40
+99
+Passing #10
+100
+Liquid Limit
+37
+Plastic index
+8
+AASHTO Classification
+A-4
+Water content
+24.2%
+Degree of saturation
+91.0%
+Matric suction
+29 kPa
+Position of 
+the soil 
+speciman
+Soil 
+properties 
+and 
+classifiction
+Initial 
+measured 
+parameters
+
+==============================================================================
+PDF PAGE 52
+==============================================================================
+153 
+ 
+ 
+ 
+ 
+Figure F-18 ST-65B, net confining pressure = 28 kPa 
+ 
+Figure F-19 ST-75, net confining pressure = 76 kPa 
+ 
+ 
+Location
+403 + 45,  3LT
+Number
+ST-65B
+Depth (m)
+9.4-10.0
+Specific Gravity
+2.81
+% of Clay
+6
+% of Silt
+78
+% of Fine Sand
+15
+% of Coarse Sand
+1
+Passing #200
+87
+Passing #40
+100
+Passing #10
+100
+Liquid Limit
+37
+Plastic index
+8
+AASHTO Classification
+A-4
+Water content
+24.2%
+Degree of saturation
+91.0%
+Matric suction
+29 kPa
+Position of 
+the soil 
+speciman
+Soil 
+properties 
+and 
+classifiction
+Intial 
+measured 
+parameters
+Location
+404 + 50, 102RT
+Number
+ST-75
+Depth (m)
+7.4-8.0
+Specific Gravity
+2.68
+% of Clay
+10
+% of Silt
+45
+% of Fine Sand
+22
+% of Coarse Sand
+23
+Passing #200
+57
+Passing #40
+83
+Passing #10
+98
+Liquid Limit
+42
+Plastic index
+10
+AASHTO Classification
+A-4
+Water content
+17.5%
+Degree of saturation
+83.4%
+Matric suction
+34.8 kPa
+Position of 
+the soil 
+speciman
+Soil 
+properties 
+and 
+classifiction
+Initial 
+measured 
+parameters
+
+==============================================================================
+PDF PAGE 53
+==============================================================================
+154 
+ 
+ 
+ 
+ 
+Figure F-20 ST-77, net confining pressure = 69 kPa 
+ 
+Figure F-21 ST-85, net confining pressure = 103 kPa 
+ 
+ 
+Location
+404 + 50, 102RT
+Number
+ST-77
+Depth (m)
+8.0-8.5
+Specific Gravity
+2.72
+% of Clay
+9
+% of Silt
+54
+% of Fine Sand
+14
+% of Coarse Sand
+23
+Passing #200
+67
+Passing #40
+82
+Passing #10
+99
+Liquid Limit
+32
+Plastic index
+5
+AASHTO Classification
+A-4
+Water content
+21.1%
+Degree of saturation
+86.0%
+Matric suction
+25.1 kPa
+Position of 
+the soil 
+speciman
+Soil 
+properties 
+and 
+classifiction
+Initial 
+measured 
+parameters
+Location
+404 + 50, 86RT
+Number
+ST-85
+Depth
+27.0-28.0
+Specific Gravity
+2.68
+% of Clay
+12
+% of Silt
+48
+% of Fine Sand
+21
+% of Coarse Sand
+19
+Passing #200
+64
+Passing #40
+87
+Passing #10
+99
+Liquid Limit
+39
+Plastic index
+10
+AASHTO Classification
+A-4
+Water content
+31.3%
+Degree of saturation
+82.0%
+Matric suction
+26.5 kPa
+Position of 
+the soil 
+speciman
+Soil 
+properties 
+and 
+classifiction
+Initial 
+measured 
+parameters
+
+==============================================================================
+PDF PAGE 54
+==============================================================================
+155 
+ 
+ 
+Figure F-22 ST-37A, net confining pressure = 21 kPa 
+ 
+Figure F-23 ST-37B, net confining pressure = 21 kPa 
+ 
+ 
+Location
+405 + 70,  3LT
+Number
+ST-37A
+Depth (m)
+1.5-2.1
+Specific Gravity
+2.79
+% of Clay
+22
+% of Silt
+59
+% of Fine Sand
+18
+% of Coarse Sand
+1
+Passing #200
+87
+Passing #40
+100
+Passing #10
+100
+Liquid Limit
+47
+Plastic index
+12
+AASHTO Classification
+A-7-5
+Water content
+32.6%
+Degree of saturation
+68.9%
+Matric suction
+84 kPa
+Soil 
+properties 
+and 
+classifiction
+Intial 
+measured 
+parameters
+Position of 
+the soil 
+speciman
+Location
+405 + 70,  3LT
+Number
+ST-37B
+Depth (m)
+1.5-2.1
+Specific Gravity
+2.71
+% of Clay
+25
+% of Silt
+58
+% of Fine Sand
+16
+% of Coarse Sand
+1
+Passing #200
+88
+Passing #40
+100
+Passing #10
+100
+Liquid Limit
+47
+Plastic index
+12
+AASHTO Classification
+A-7-5
+Water content
+32.6%
+Degree of saturation
+68.9%
+Matric suction
+84 kPa
+Position of 
+the soil 
+speciman
+Soil 
+properties 
+and 
+classifiction
+Initial 
+measured 
+parameters
+
+==============================================================================
+PDF PAGE 55
+==============================================================================
+156 
+ 
+ 
+ 
+ 
+Figure F-24 ST-38A, net confining pressure = 28 kPa 
+ 
+Figure F-25 ST-38B, net confining pressure = 28 kPa 
+Note: Specimen failed in the first stage 
+ 
+Location
+405 + 70,  3LT
+Number
+ST-38A
+Depth
+2.4-3.0
+Specific Gravity
+2.87
+% of Clay
+20
+% of Silt
+67
+% of Fine Sand
+12
+% of Coarse Sand
+1
+Passing #200
+90
+Passing #40
+100
+Passing #10
+100
+Liquid Limit
+61
+Plastic index
+21
+AASHTO Classification
+A-7-5
+Water content
+35.0%
+Degree of saturation
+62.8%
+Matric suction
+74 kPa
+Position of 
+the soil 
+speciman
+Soil 
+properties 
+and 
+classifiction
+Initial 
+measured 
+parameters
+Location
+405 + 70,  3LT
+Number
+ST-38B
+Depth (m)
+2.4-3.0
+Specific Gravity
+2.71
+% of Clay
+29
+% of Silt
+61
+% of Fine Sand
+9
+% of Coarse Sand
+1
+Passing #200
+94
+Passing #40
+99
+Passing #10
+100
+Liquid Limit
+61
+Plastic index
+21
+AASHTO Classification
+A-7-5
+Water content
+35.0%
+Degree of saturation
+62.8%
+Matric suction
+74 kPa
+Soil 
+properties 
+and 
+classifiction
+Position of 
+the soil 
+speciman
+Initial 
+measured 
+parameters
+
+==============================================================================
+PDF PAGE 56
+==============================================================================
+157 
+ 
+ 
+ 
+Figure F-26 ST-39A, net confining pressure = 21 kPa 
+ 
+Figure F-27 ST-39B, net confining pressure = 35 kPa 
+ 
+ 
+Location
+405 + 70,  3LT
+Number
+ST-39A
+Depth (m)
+4.9-5.5
+Specific Gravity
+2.73
+% of Clay
+15
+% of Silt
+65
+% of Fine Sand
+15
+% of Coarse Sand
+5
+Passing #200
+82
+Passing #40
+97
+Passing #10
+100
+Liquid Limit
+58
+Plastic index
+16
+AASHTO Classification
+A-7-5
+Water content
+36.0%
+Degree of saturation
+65.3%
+Matric suction
+53.9 kPa
+Position of 
+the soil 
+speciman
+Soil 
+properties 
+and 
+classifiction
+Initial 
+measured 
+parameters
+Location
+405 + 70,  3LT
+Number
+ST-39B
+Depth (m)
+4.9-5.5
+Specific Gravity
+2.74
+% of Clay
+16
+% of Silt
+64
+% of Fine Sand
+19
+% of Coarse Sand
+1
+Passing #200
+88
+Passing #40
+100
+Passing #10
+100
+Liquid Limit
+58
+Plastic index
+16
+AASHTO Classification
+A-7-5
+Water content
+36.0%
+Degree of saturation
+65.3%
+Matric suction
+53.9 kPa
+Position of 
+the soil 
+speciman
+Soil 
+properties 
+and 
+classifiction
+Initial 
+measured 
+parameters
+
+==============================================================================
+PDF PAGE 57
+==============================================================================
+158 
+ 
+ 
+ 
+ 
+Figure F-28 ST-49A, net confining pressure = 24 kPa 
+ 
+Figure F-29 ST-49B, net confining pressure = 24 kPa 
+ 
+ 
+Location
+404 + 50,  3LT
+Number
+ST-49A
+Depth (m)
+2.0-2.5
+Specific Gravity
+2.77
+% of Clay
+31
+% of Silt
+49
+% of Fine Sand
+17
+% of Coarse Sand
+3
+Passing #200
+85
+Passing #40
+99
+Passing #10
+100
+Liquid Limit
+61
+Plastic index
+22
+AASHTO Classification
+A-7-5
+Water content
+33.5%
+Degree of saturation
+65.8%
+Matric suction
+74.2 kPa
+Position of 
+the soil 
+speciman
+Soil 
+properties 
+and 
+classifiction
+Initial 
+measured 
+parameters
+Location
+404 + 50,  3LT
+Number
+ST-49B
+Depth (m)
+2.0-2.5
+Specific Gravity
+2.66
+% of Clay
+30
+% of Silt
+54
+% of Fine Sand
+15
+% of Coarse Sand
+1
+Passing #200
+95
+Passing #40
+100
+Passing #10
+100
+Liquid Limit
+61
+Plastic index
+22
+AASHTO Classification
+A-7-5
+Water content
+33.5%
+Degree of saturation
+65.8%
+Matric suction
+74.2 kPa
+Position of 
+the soil 
+speciman
+Soil 
+properties 
+and 
+classifiction
+Initial 
+measured 
+parameters
+
+==============================================================================
+PDF PAGE 58
+==============================================================================
+159 
+ 
+ 
+ 
+ 
+Figure F-30 ST-51, net confining pressure = 41 kPa 
+ 
+Figure F-31 ST-52, net confining pressure = 62 kPa 
+ 
+ 
+Location
+404 + 50,  3LT
+Number
+ST-51
+Depth (m)
+3.0-3.5
+Specific Gravity
+2.78
+% of Clay
+21
+% of Silt
+61
+% of Fine Sand
+14
+% of Coarse Sand
+4
+Passing #200
+84
+Passing #40
+98
+Passing #10
+99
+Liquid Limit
+60
+Plastic index
+24
+AASHTO Classification
+A-7-5
+Water content
+46.8%
+Degree of saturation
+79.9%
+Matric suction
+45.6 kPa
+Position of 
+the soil 
+speciman
+Soil 
+properties 
+and 
+classifiction
+Initial 
+measured 
+parameters
+Location
+404 + 50,  3LT
+Number
+ST-52
+Depth (m)
+5.6-6.2
+Specific Gravity
+2.8
+% of Clay
+10
+% of Silt
+70
+% of Fine Sand
+16
+% of Coarse Sand
+4
+Passing #200
+84
+Passing #40
+98
+Passing #10
+100
+Liquid Limit
+60
+Plastic index
+15
+AASHTO Classification
+A-7-5
+Water content
+50.2%
+Degree of saturation
+88.1%
+Matric suction
+24.6 kPa
+Initial 
+measured 
+parameters
+Position of 
+the soil 
+speciman
+Soil 
+properties 
+and 
+classifiction
+
+==============================================================================
+PDF PAGE 59
+==============================================================================
+160 
+ 
+ 
+ 
+ 
+Figure F-32 ST-57, net confining pressure = 131 kPa 
+ 
+Figure F-33 ST-59A, net confining pressure = 21 kPa 
+ 
+ 
+Location
+404 + 50,  3LT
+Number
+ST-57
+Depth (m)
+13.6-14.2
+Specific Gravity
+2.82
+% of Clay
+5
+% of Silt
+33
+% of Fine Sand
+23
+% of Coarse Sand
+39
+Passing #200
+38
+Passing #40
+75
+Passing #10
+99
+Liquid Limit
+30
+Plastic index
+5
+AASHTO Classification
+A-4
+Water content
+19.3%
+Degree of saturation
+87.9%
+Matric suction
+10.8 kPa
+Position of 
+the soil 
+speciman
+Soil 
+properties 
+and 
+classifiction
+Initial 
+measured 
+parameters
+Location
+403 + 45,  3LT
+Number
+ST-59A
+Depth (m)
+0.6-1.3
+Specific Gravity
+2.7
+% of Clay
+9
+% of Silt
+20
+% of Fine Sand
+17
+% of Coarse Sand
+54
+Passing #200
+93
+Passing #40
+56
+Passing #10
+31
+Liquid Limit
+37
+Plastic index
+13
+AASHTO Classification
+A-2-6
+Water content
+12.6%
+Degree of saturation
+72.0%
+Matric suction
+76 kPa
+Initial 
+measured 
+parameters
+Soil 
+properties 
+and 
+classifiction
+Position of 
+the soil 
+speciman
+
+==============================================================================
+PDF PAGE 60
+==============================================================================
+161 
+ 
+ 
+ 
+ 
+Figure F-34 ST-59C, net confining pressure = 21 kPa 
+ 
+Figure F-35 ST-62, net confining pressure = 41 kPa 
+ 
+ 
+Location
+403 + 45,  3LT
+Number
+ST-59C
+Depth (m)
+0.6-1.3
+Specific Gravity
+2.7
+% of Clay
+7
+% of Silt
+39
+% of Fine Sand
+17
+% of Coarse Sand
+37
+Passing #200
+46
+Passing #40
+73
+Passing #10
+97
+Liquid Limit
+37
+Plastic index
+13
+AASHTO Classification
+A-2-6
+Water content
+12.6%
+Degree of saturation
+72.0%
+Matric suction
+76 kPa
+Position of 
+the soil 
+speciman
+Soil 
+properties 
+and 
+classifiction
+Initial 
+measured 
+parameters
+Location
+403 + 45,  3LT
+Number
+ST-62
+Depth (m)
+4.0-4.5
+Specific Gravity
+2.78
+% of Clay
+10
+% of Silt
+58
+% of Fine Sand
+25
+% of Coarse Sand
+7
+Passing #200
+72
+Passing #40
+97
+Passing #10
+100
+Liquid Limit
+44
+Plastic index
+11
+AASHTO Classification
+A-6
+Water content
+23.3%
+Degree of saturation
+71.0%
+Matric suction
+37.9 kPa
+Position of 
+the soil 
+speciman
+Soil 
+properties 
+and 
+classifiction
+Initial 
+measured 
+parameters
+
+==============================================================================
+PDF PAGE 61
+==============================================================================
+162 
+ 
+ 
+ 
+Figure F-36 ST-64, net confining pressure = 76 kPa 
+ 
+Figure F-37 ST-81, net confining pressure = 21-62 kPa 
+ 
+*The σc, net for the four tests are 21, 21, 41 and 62  
+Location
+403 + 45,  3LT
+Number
+ST-64
+Depth (m)
+7.5-8.0
+Specific Gravity
+2.74
+% of Clay
+10
+% of Silt
+65
+% of Fine Sand
+23
+% of Coarse Sand
+2
+Passing #200
+85
+Passing #40
+99
+Passing #10
+100
+Liquid Limit
+45
+Plastic index
+12
+AASHTO Classification
+A-7-5
+Water content
+21.0%
+Degree of saturation
+97.7%
+Matric suction
+35.3 kPa
+Intial 
+measured 
+parameters
+Position of 
+the soil 
+speciman
+Soil 
+properties 
+and 
+classifiction
+Location
+404 + 50, 86RT
+Number
+ST-81
+Depth (m)
+2.4-3.0
+Specific Gravity
+2.68
+% of Clay
+10
+% of Silt
+46
+% of Fine Sand
+25
+% of Coarse Sand
+19
+Passing #200
+59
+Passing #40
+90
+Passing #10
+100
+Liquid Limit
+41
+Plastic index
+8
+AASHTO Classification
+A-4
+Water content
+13.2%
+Degree of saturation
+32.0%
+Matric suction
+95.7 kPa
+Position of 
+the soil 
+speciman
+Soil 
+properties 
+and 
+classifiction
+Initial 
+measured 
+parameters
+
+==============================================================================
+PDF PAGE 62
+==============================================================================
+163 
+ 
+ 
+ 
+Figure F-38 ST-30, net confining pressure = 48, 48 and 97 kPa 
+ 
+Figure F-39 ST-83, net confining pressure = 41 kPa 
+ 
+ 
+Location
+404 + 50,  94RT
+Number
+ST-30
+Depth (m)
+7.3-7.9
+Specific Gravity
+2.67
+% of Clay
+8
+% of Silt
+49
+% of Fine Sand
+24
+% of Coarse Sand
+19
+Passing #200
+59
+Passing #40
+86
+Passing #10
+97
+Liquid Limit
+33
+Plastic index
+6
+AASHTO Classification
+A-4
+Water content
+25.6%
+Degree of saturation
+-
+Matric suction
+-
+Initial 
+measured 
+parameters
+Position of 
+the soil 
+speciman
+Soil 
+properties 
+and 
+classifiction
+Location
+404 + 50, 86RT
+Number
+ST-83A
+Depth (m)
+4.9-5.5
+Specific Gravity
+2.61
+% of Clay
+6
+% of Silt
+49
+% of Fine Sand
+20
+% of Coarse Sand
+25
+Passing #200
+58
+Passing #40
+82
+Passing #10
+98
+Liquid Limit
+38
+Plastic index
+6
+AASHTO Classification
+A-4
+Water content
+18.9%
+Degree of saturation
+70.0%
+Matric suction
+79.1 kPa
+Position of 
+the soil 
+speciman
+Soil 
+properties 
+and 
+classifiction
+Initial 
+measured 
+parameters
+
+==============================================================================
+PDF PAGE 63
+==============================================================================
+164 
+ 
+ 
+ 
+ 
+Figure F-40 ST-74, net confining pressure = 62 kPa 
+ 
+Figure F-41 ST-87, net confining pressure = 117 kPa 
+ 
+ 
+Location
+405 + 70,  3LT
+Number
+ST-74
+Depth (m)
+6.3-6.9
+Specific Gravity
+2.73
+% of Clay
+10
+% of Silt
+47
+% of Fine Sand
+15
+% of Coarse Sand
+18
+Passing #200
+60
+Passing #40
+78
+Passing #10
+98
+Liquid Limit
+44
+Plastic index
+11
+AASHTO Classification
+A-6
+Water content
+14.0%
+Degree of saturation
+71.0%
+Matric suction
+57.8 kPa
+Position of 
+the soil 
+speciman
+Soil 
+properties 
+and 
+classifiction
+Initial 
+measured 
+parameters
+Location
+404 + 50, 86RT
+Number
+ST-87
+Depth (m)
+11.5-12.0
+Specific Gravity
+2.68
+% of Clay
+9
+% of Silt
+44
+% of Fine Sand
+18
+% of Coarse Sand
+29
+Passing #200
+57
+Passing #40
+78
+Passing #10
+99
+Liquid Limit
+38
+Plastic index
+6
+AASHTO Classification
+A-4
+Water content
+27.9%
+Degree of saturation
+-
+Matric suction
+23.2 kPa
+Initial 
+measured 
+parameters
+Soil 
+properties 
+and 
+classifiction
+Position of 
+the soil 
+speciman
+
+==============================================================================
+PDF PAGE 64
+==============================================================================
+165 
+ 
+ 
+ 
+ 
+Figure F-42 ST-34A, net confining pressure = 90 kPa 
+ 
+Figure F-43 ST-34B, net confining pressure = 45, 45 and 90 kPa 
+ 
+ 
+Location
+404 + 50,  94RT
+Number
+ST-34A
+Depth (m)
+13.5-14.1
+Specific Gravity
+2.64
+% of Clay
+10
+% of Silt
+43
+% of Fine Sand
+32
+% of Coarse Sand
+15
+Passing #200
+60
+Passing #40
+83
+Passing #10
+98
+Liquid Limit
+38
+Plastic index
+10
+AASHTO Classification
+A-5
+Water content
+22.5%
+Degree of saturation
+88.5%
+Matric suction
+20 kPa
+Initial 
+measured 
+parameters
+Position of 
+the soil 
+speciman
+Soil 
+properties 
+and 
+classifiction
+Location
+404 + 50,  94RT
+Number
+ST-34B
+Depth (m)
+13.5-14.1
+Specific Gravity
+2.64
+% of Clay
+10
+% of Silt
+48
+% of Fine Sand
+20
+% of Coarse Sand
+22
+Passing #200
+62
+Passing #40
+84
+Passing #10
+99
+Liquid Limit
+38
+Plastic index
+10
+AASHTO Classification
+A-5
+Water content
+22.5%
+Degree of saturation
+88.5%
+Matric suction
+20 kPa
+Initial 
+measured 
+parameters
+Soil 
+properties 
+and 
+classifiction
+Position of 
+the soil 
+speciman
+
+==============================================================================
+PDF PAGE 65
+==============================================================================
+166 
+ 
+ 
+ 
+ 
+Figure F-44 ST-79A, net confining pressure = 90, 62 and 62 kPa 
+ 
+Figure F-45 ST-79B, net confining pressure = 145 and 131  kPa 
+ 
+ 
+Location
+404 + 50, 102RT
+Number
+ST-79A
+Depth (m)
+14.1-14.7
+Specific Gravity
+2.65
+% of Clay
+9
+% of Silt
+52
+% of Fine Sand
+21
+% of Coarse Sand
+18
+Passing #200
+65
+Passing #40
+88
+Passing #10
+100
+Liquid Limit
+28
+Plastic index
+3
+AASHTO Classification
+A-4
+Water content
+17.6%
+Degree of saturation
+93.0%
+Matric suction
+23.7 kPa
+Position of 
+the soil 
+speciman
+Soil 
+properties 
+and 
+classifiction
+Initial 
+measured 
+parameters
+Location
+404 + 50, 102RT
+Number
+ST-79B
+Depth (m)
+14.1-14.7
+Specific Gravity
+2.70
+% of Clay
+10
+% of Silt
+50
+% of Fine Sand
+15
+% of Coarse Sand
+25
+Passing #200
+61
+Passing #40
+82
+Passing #10
+97
+Liquid Limit
+28
+Plastic index
+3
+AASHTO Classification
+A-4
+Water content
+17.6%
+Degree of saturation
+93.0%
+Matric suction
+23.7 kPa
+Initial 
+measured 
+parameters
+Position of 
+the soil 
+speciman
+Soil 
+properties 
+and 
+classifiction
+
+==============================================================================
+PDF PAGE 66
+==============================================================================
+167 
+ 
+ 
+ 
+ 
+Figure F-46 ST-80A, net confining pressure = 145 kPa 
+ 
+Figure F-47 ST-80B, net confining pressure = 69-166 kPa 
+ 
+*The σc, net for the four tests are 21, 21, 41 and 62 
+Location
+404 + 50, 102RT
+Number
+ST-80A
+Depth (m)
+15.0-15-5
+Specific Gravity
+2.68
+% of Clay
+4
+% of Silt
+51
+% of Fine Sand
+21
+% of Coarse Sand
+24
+Passing #200
+59
+Passing #40
+83
+Passing #10
+98
+Liquid Limit
+34
+Plastic index
+5
+AASHTO Classification
+A-4
+Water content
+21.0%
+Degree of saturation
+-
+Matric suction
+28.7 kPa
+Position of 
+the soil 
+speciman
+Soil 
+properties 
+and 
+classifiction
+Initial 
+measured 
+parameters
+Location
+404 + 50, 102RT
+Number
+ST-80B
+Depth (m)
+15.0-15-5
+Specific Gravity
+2.66
+% of Clay
+6
+% of Silt
+49
+% of Fine Sand
+21
+% of Coarse Sand
+24
+Passing #200
+57
+Passing #40
+84
+Passing #10
+98
+Liquid Limit
+34
+Plastic index
+5
+AASHTO Classification
+A-4
+Water content
+21.0%
+Degree of saturation
+-
+Matric suction
+28.7 kPa
+Position of 
+the soil 
+speciman
+Soil 
+properties 
+and 
+classifiction
+Initial 
+measured 
+parameters
+
+==============================================================================
+PDF PAGE 67
+==============================================================================
+168 
+ 
+F.2 Unsaturated lateral extension test 
+The purpose of lateral extension tests performed in this research is to compare the 
+modulus values between the two test methods. 
+For lateral extension test, the lateral extension process was started after the specimen 
+reached equilibrium to the applied matric suction and isotropic confining stress. The decrement 
+of confining stress is 0.5 psi each time, and while confining stress was reduced each time, the 
+deviatoric stress was increased by the same magnitude to maintain the constant vertical stress. 
+The vertical displacement of each step was recorded, as well as the volume change of specimen. 
+While lateral extension test was performed, each decrement was recorded with a 
+corresponding vertical displacement. The vertical displacement was converted to axial strain, and 
+can be plotted with the increase of deviatoric stress according to each decrement of confining 
+stress, so the stress strain response for lateral extension process is shown. For the specimens that 
+failed during lateral extension test, the water content was measured. 
+Not every test reaches failure during the lateral extension process, but the net isotropic 
+confining pressures of 10, 12 and 20 psi provide enough data points to plot stress-strain curve 
+while they were reduced to 1 psi.  
+Stress strain responses 
+The stress-strain responses for lateral extension tests are recorded in Figure F-48a to e for 
+the MH soil, and Figure F-48f to h for the SC soil. In each plot, a pair of stress strain curves from 
+axial compression and lateral extension tests is presented, and each pair has the same given 
+isotopic net confining pressures and matric suction.  Figure F-48 shows that the stress strain 
+responses of lateral extension test are at a smaller strain level, comparing to axial compression 
+test. The lateral extension tests were terminated when the net confining pressure reduced to 6.9 
+kPa, two increments before net confining pressure reaches 0.  
+ 
+ 
+ 
+ 
+
+==============================================================================
+PDF PAGE 68
+==============================================================================
+169 
+ 
+ 
+Lateral extension test
+Axial compression test
+0
+50
+100
+150
+200
+250
+0
+2
+4
+6
+Deviatoric stress (kPa) 
+Axial strain(%) 
+(a)  ua-uw=28kPa, σc,net=69kPa 
+0
+50
+100
+150
+200
+250
+0
+2
+4
+6
+Deviatoric stress (kPa) 
+Axial strain (%) 
+(b) ua-uw=62kPa, σc,net=41kPa 
+0
+50
+100
+150
+200
+250
+300
+350
+0
+2
+4
+6
+Deviatoric stress (kPa) 
+Axial strain (%) 
+(c)      ua-uw=62kPa, σc,net=138kPa 
+0
+50
+100
+150
+200
+250
+300
+350
+0
+2
+4
+6
+Deviatoric stress (kPa) 
+Axial strain(%) 
+(d)      ua-uw=90kPa, σc,net=83kPa 
+0
+50
+100
+150
+200
+250
+300
+350
+400
+0
+2
+4
+6
+Deviatoric stress  (kPa) 
+Axial strain (%) 
+(e)    ua-uw=124kPa, σc,net=83kPa 
+0
+50
+100
+150
+200
+250
+300
+350
+0
+2
+4
+6
+Deviatoric stress  (kPa) 
+Axial strain (%) 
+(f)  ua-uw=10kPa, σc,net=138kPa 
+
+==============================================================================
+PDF PAGE 69
+==============================================================================
+170 
+ 
+Figure F-48 Stress strain curves of axial compression and lateral extension tests (a to e: MH 
+soils; f to h: SC soils) 
+ 
+ 
+The summary of all test conditions and test results from lateral extension tests (LE) and 
+eight corresponding axial compression tests (AC) is listed in Table F-4.  Expect for six pairs of 
+compression and extension tests for the stress-strain comparison, two lateral extension tests were 
+performed to discover the stress at failure during lateral extension tests.  
+Not every test reaches failure during the lateral extension process, but the net isotropic 
+confining pressures of 69, 83 and 138 kPa provide enough data points to plot stress-strain curve, 
+which were recorded each decrease of 3.5 kPa, until reduced to 7 kPa.  
+ 
+0
+50
+100
+150
+200
+250
+300
+350
+400
+0
+2
+4
+6
+Deviatoric stress  (kPa) 
+Axial strain (%) 
+(g)      ua-uw=55kPa, σc,net=83kPa 
+0
+50
+100
+150
+200
+250
+300
+350
+400
+0
+2
+4
+6
+Deviatoric stress  (kPa) 
+Axial strain (%) 
+(h)    ua-uw=103kPa, σc,net=83kPa 
+
+==============================================================================
+PDF PAGE 70
+==============================================================================
+171 
+ 
+Table F-4 Test conditions and measured modulus values 
+ 
+ 
+ua-uw
+σc (Net)
+E0.1%
+E50
+(kPa)
+(kPa)
+(kPa)
+(kPa)
+(MPa)
+(MPa)
+AC
+27.6
+68.9
+91.1
+191.5
+9.7
+6.7
+Y
+LE
+27.6
+68.9
+91.1
+72.3
+32.6
+22.9
+N
+LE
+27.6
+82.7
+104.8
+86.1
+47.4
+51.8
+N
+AC
+62.0
+41.3
+86.5
+196.4
+15.3
+9.9
+Y
+LE
+62.0
+41.3
+86.5
+68.9
+32.8
+39.0
+N
+LE
+62.0
+82.7
+127.9
+96.5
+43.9
+35.5
+N
+AC
+62.0
+137.8
+183.0
+352.8
+15.6
+8.8
+Y
+LE
+62.0
+137.8
+183.0
+134.4
+46.5
+40.1
+N
+AC
+89.6
+82.7
+138.4
+297.0
+14.2
+8.6
+Y
+LE
+89.6
+82.7
+138.4
+103.4
+34.5
+25.0
+N
+LE
+89.6
+137.8
+139.4
+141.2
+65.4
+62.0
+N
+AC
+124.0
+82.7
+154.7
+333.5
+27.3
+18.0
+Y
+LE
+124.0
+82.7
+154.7
+110.2
+63.2
+72.7
+N
+LE
+10.3
+82.7
+90.4
+72.3
+24.0
+19.1
+Y
+AC
+10.3
+137.8
+145.6
+392.0
+12.8
+7.2
+Y
+LE
+10.3
+137.8
+145.6
+117.1
+22.4
+15.3
+Y
+LE
+20.7
+137.8
+151.5
+124.0
+57.3
+48.9
+Y
+AC
+55.1
+82.7
+114.3
+336.2
+18.0
+10.4
+Y
+LE
+55.1
+82.7
+114.3
+86.1
+34.5
+28.1
+N
+LE
+55.1
+137.8
+169.5
+124.0
+49.8
+41.3
+Y
+AC
+103.4
+82.7
+137.2
+385.2
+14.6
+9.4
+Y
+LE
+103.4
+82.7
+137.2
+103.4
+47.1
+40.8
+N
+*For the lateral tests that did not reach failure, the peak deviatoric stress is defined from Kf 
+line in p'-q plot
+SC
+Soil 
+type
+Test Type
+Reach 
+failure
+MH
+𝜎 ,  𝑎 
+𝜎 , 
+′

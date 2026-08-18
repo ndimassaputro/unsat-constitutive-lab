@@ -1,0 +1,4 @@
+comparison,group_A,group_B,metric,n_A,tubes_A,n_B,tubes_B,mean_A,mean_B,difference_B_minus_A,bootstrap_p025,bootstrap_p975,prob_B_greater,prob_B_lower
+within_multistage_history_test,multistage_stage1,multistage_later,eps_log_residual,25,18,39,18,-0.17401632892171012,-0.18059351954899666,-0.006577190627286539,-0.2498690127442071,0.23193665815693323,0.48005,0.51995
+within_multistage_history_test,multistage_stage1,multistage_later,lambda_log_residual,25,18,39,18,-0.31966234116139974,0.05742649180300082,0.37708883296440054,0.13668899965729722,0.6260163978148089,0.9992,0.0008
+within_multistage_history_test,multistage_stage1,multistage_later,joint_absolute_shape_error,25,18,39,18,0.43292315123205993,0.4252579438702702,-0.0076652073617897165,-0.11829159911215398,0.11140623203241792,0.4488,0.5512

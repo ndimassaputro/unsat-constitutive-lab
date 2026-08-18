@@ -1,0 +1,2 @@
+specimen_id,source_peak_kPa,digitized_peak_kPa,peak_error_kPa,peak_error_pct,digitized_peak_strain_pct,n_digitized_columns
+ST-36,264.5,265.96009975062344,1.460099750623442,0.5520225900277664,3.8523985239852396,539

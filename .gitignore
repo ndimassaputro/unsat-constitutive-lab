@@ -1,0 +1,13 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Keep provenance notes, but raw downloaded source data stay local.
+data/raw/*
+!data/raw/README.md
+
+# Temporary files
+*.tmp
+*.log
