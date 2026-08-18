@@ -7,6 +7,7 @@
 [![Domain](https://img.shields.io/badge/Domain-Unsaturated%20Soil%20Mechanics-8B5E3C)](#scientific-motivation)
 [![Validation](https://img.shields.io/badge/Validation-Leave--One--Tube--Out-4C78A8)](#unsaturated-strength-modelling)
 [![Data](https://img.shields.io/badge/Data-Laboratory%20Triaxial-2F855A)](#experimental-source)
+[![Release](https://img.shields.io/badge/release-v1.0.0-2F855A)](https://github.com/ndimassaputro/unsat-constitutive-lab/releases/tag/v1.0.0)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 **UnsatConstitutiveLab** is a reproducible computational study of
