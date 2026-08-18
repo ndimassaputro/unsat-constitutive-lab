@@ -140,13 +140,13 @@ Tube-wise prediction             Curve parameters
 ## Peak-stress definition
 
 The source stress-strain plots explicitly report **deviatoric stress**
-\(q\).
+$q$.
 
 Accordingly,
 
-\[
-q_p = q_{\mathrm{source\ peak}},
-\]
+$$
+q_p = q_{\mathrm{source\ peak}}
+$$
 
 with no additional subtraction of net confining stress.
 
@@ -190,7 +190,7 @@ descriptors.
 
 A conventional Fredlund-type strength representation was evaluated:
 
-\[
+$$
 \tau_f
 =
 c'
@@ -198,14 +198,14 @@ c'
 (\sigma-u_a)\tan\phi'
 +
 (u_a-u_w)\tan\phi^b.
-\]
+$$
 
 where:
 
-- \(c'\) is a fitted cohesion-related term;
-- \(\phi'\) is a fitted friction-related parameter;
-- \(u_a-u_w\) is matric suction; and
-- \(\phi^b\) describes the fitted suction-related strength contribution.
+- $c'$ is a fitted cohesion-related term;
+- $\phi'$ is a fitted friction-related parameter;
+- $u_a-u_w$ is matric suction; and
+- $\phi^b$ describes the fitted suction-related strength contribution.
 
 The fitted quantities are interpreted as **equivalent fitted strength
 parameters**, rather than universally transferable fundamental material
@@ -227,41 +227,41 @@ mechanical and suction-only alternatives.
 
 For each loading stage, the pre-peak response is normalized as
 
-\[
+$$
 x
 =
 \frac{\varepsilon_a}
      {\varepsilon_{a,p}},
-\]
+$$
 
 and
 
-\[
+$$
 y
 =
 \frac{q-q_0}
      {q_p-q_0},
-\]
+$$
 
 where:
 
-- \(\varepsilon_a\) = axial strain;
-- \(\varepsilon_{a,p}\) = stage-specific axial strain at peak;
-- \(q\) = deviatoric stress;
-- \(q_0\) = stage-start deviator-stress baseline; and
-- \(q_p\) = stage-specific peak deviator stress.
+- $\varepsilon_a$ = axial strain;
+- $\varepsilon_{a,p}$ = stage-specific axial strain at peak;
+- $q$ = deviatoric stress;
+- $q_0$ = stage-start deviator-stress baseline; and
+- $q_p$ = stage-specific peak deviator stress.
 
 Thus,
 
-\[
-(x,y)=(0,0)
-\]
+$$
+(x,y) = (0,0)
+$$
 
 represents the normalized stage start, while
 
-\[
-(x,y)=(1,1)
-\]
+$$
+(x,y) = (1,1)
+$$
 
 represents the stage-specific peak.
 
@@ -271,20 +271,20 @@ represents the stage-specific peak.
 
 A one-parameter hyperbolic representation is used:
 
-\[
+$$
 y
 =
 \frac{x(1+\lambda)}
      {1+\lambda x}.
-\]
+$$
 
-The parameter \(\lambda\) describes the curvature of pre-peak stress
+The parameter $\lambda$ describes the curvature of pre-peak stress
 mobilization.
 
 In practical terms:
 
-- smaller \(\lambda\) corresponds to more gradual mobilization;
-- larger \(\lambda\) corresponds to a greater fraction of peak strength
+- smaller $\lambda$ corresponds to more gradual mobilization;
+- larger $\lambda$ corresponds to a greater fraction of peak strength
   being mobilized earlier in normalized strain space.
 
 Across the **84 reconstructed stages**:
@@ -317,107 +317,103 @@ tube as fully independent observations.
 ## Model-free mobilization descriptors
 
 The primary scientific result does not rely on the fitted
-\(\lambda\) parameter.
+$\lambda$ parameter.
 
 Direct normalized mobilization is evaluated at:
 
-\[
-x=0.25,\qquad
-x=0.50,\qquad
-x=0.75.
-\]
+$$
+x = 0.25, \qquad x = 0.50, \qquad x = 0.75
+$$
 
 These produce:
 
-\[
-y_{25},\qquad
-y_{50},\qquad
-y_{75}.
-\]
+$$
+y_{25}, \qquad y_{50}, \qquad y_{75}
+$$
 
 A mean normalized mobilization descriptor is also evaluated over:
 
-\[
-0.10 \le x \le 0.90.
-\]
+$$
+0.10 \le x \le 0.90
+$$
 
-Using the primary definition of \(q_0\):
+Using the primary definition of $q_0$:
 
-\[
+$$
 \Delta y_{25}
 =
 +0.162,
-\]
+$$
 
 with 95% tube-cluster bootstrap interval:
 
-\[
+$$
 [+0.115,\,+0.209].
-\]
+$$
 
 At half normalized peak strain:
 
-\[
+$$
 \boxed{
 \Delta y_{50}
 =
 +0.171
 }
-\]
+$$
 
 with
 
-\[
+$$
 \boxed{
 95\%\ \mathrm{CI}
 =
 [+0.132,\,+0.210]
 }
-\]
+$$
 
 and **92% of paired specimens** showing a positive shift.
 
 At
 
-\[
+$$
 x=0.75,
-\]
+$$
 
 the effect remains positive:
 
-\[
+$$
 \Delta y_{75}
 =
 +0.085,
-\]
+$$
 
 with
 
-\[
+$$
 95\%\ \mathrm{CI}
 =
 [+0.065,\,+0.105].
-\]
+$$
 
 For the complete normalized interval:
 
-\[
+$$
 \boxed{
-\Delta\bar y_{10-90}
+\Delta \bar{y}_{10-90}
 =
 +0.131
 }
-\]
+$$
 
 with
 
-\[
+$$
 \boxed{
 95\%\ \mathrm{CI}
 =
 [+0.100,\,+0.161].
 }
-\]
+$$
 
 ---
 
@@ -452,7 +448,7 @@ Figure 01 shows:
 
 - normalized Stage-1 and Stage-2 mean responses;
 - tube-cluster bootstrap uncertainty;
-- the paired mobilization difference \(\Delta y(x)\); and
+- the paired mobilization difference $\Delta y(x)$; and
 - principal direct effect-size descriptors.
 
 The positive difference is strongest through the central part of the
@@ -470,7 +466,7 @@ alternative explanations and sensitivity tests.
 
 ## Stage-start stress definition
 
-The primary analysis estimates \(q_0\) from the earliest 5% of
+The primary analysis estimates $q_0$ from the earliest 5% of
 stage-specific peak strain.
 
 The complete calculation was repeated using windows of:
@@ -480,24 +476,24 @@ The complete calculation was repeated using windows of:
 - **10%**
 - **15%**
 
-of \(\varepsilon_{a,p}\).
+of $\varepsilon_{a,p}$.
 
 The direction and practical magnitude of the Stage-1 to Stage-2 shift
 remain stable.
 
 For example,
 
-\[
+$$
 \Delta y_{50}
-\]
+$$
 
 remains approximately:
 
-\[
+$$
 +0.166
 \text{ to }
 +0.184.
-\]
+$$
 
 All corresponding 95% tube-cluster bootstrap intervals remain above zero.
 
@@ -509,35 +505,35 @@ The paired shift is independently present in the two major soil subsets.
 
 For **MH** soils:
 
-\[
-\Delta\bar y_{10-90}
+$$
+\Delta \bar{y}_{10-90}
 \approx
 +0.160,
-\]
+$$
 
 with approximately
 
-\[
+$$
 95\%\ \mathrm{CI}
 =
 [+0.117,\,+0.196].
-\]
+$$
 
 For **ML** soils:
 
-\[
-\Delta\bar y_{10-90}
+$$
+\Delta \bar{y}_{10-90}
 \approx
 +0.105,
-\]
+$$
 
 with approximately
 
-\[
+$$
 95\%\ \mathrm{CI}
 =
 [+0.071,\,+0.141].
-\]
+$$
 
 The result is therefore not carried entirely by one major soil class.
 
@@ -552,65 +548,61 @@ SC tubes is insufficient for comparable stratified analysis.
 
 Figure 02 summarizes:
 
-- sensitivity to alternative \(q_0\) definitions; and
+- sensitivity to alternative $q_0$ definitions; and
 - separate MH and ML Stage-1/Stage-2 effects.
 
 ---
 
-# Constitutive interpretation through \(\lambda\)
+# Constitutive interpretation through $\lambda$
 
-The compact parameter \(\lambda\) closely tracks the directly observed
+The compact parameter $\lambda$ closely tracks the directly observed
 normalized mobilization shape.
 
 Across all **84 reconstructed stages**:
 
-\[
-\rho
-\approx
-0.996
-\]
+$$
+\rho \approx 0.996
+$$
 
-between \(\lambda\) and the model-free mean mobilization descriptor
+between $\lambda$ and the model-free mean mobilization descriptor
 
-\[
-\bar y_{10-90}.
-\]
+$$
+\bar{y}_{10-90}
+$$
 
 For multistage observations alone:
 
-\[
+$$
 \rho
 \approx
 0.996.
-\]
+$$
 
 For tube-paired Stage-1 to Stage-2 comparisons:
 
-\[
-\Delta\lambda
+$$
+\Delta \lambda
 \approx
 +2.62,
-\]
+$$
 
 with
 
-\[
+$$
 95\%\ \mathrm{CI}
 \approx
 [+1.66,\,+3.73].
-\]
+$$
 
 The bootstrap probability of a positive tube-level mean shift is:
 
-\[
-P(\Delta\lambda>0)
-\approx
-1.000.
-\]
+$$
+P(\Delta \lambda > 0) \approx 1.000
+$$
 
 The primary scientific inference nevertheless remains anchored to the
 **direct model-free mobilization descriptors**, rather than to
-\(\lambda\) alone.
+$\lambda$ alone.
 
 ---
 
@@ -621,7 +613,7 @@ The primary scientific inference nevertheless remains anchored to the
 Figure 03 connects the direct experimental observation to the compact
 constitutive representation by showing:
 
-- how \(\lambda\) changes normalized mobilization curvature;
+- how $\lambda$ changes normalized mobilization curvature;
 - its near-monotonic relationship with model-free mobilization; and
 - tube-paired Stage-1 to Stage-2 evolution.
 
@@ -662,15 +654,15 @@ Later loading stages do not necessarily begin at zero deviator stress.
 
 The analysis was therefore reformulated using:
 
-\[
-\Delta q=q-q_0
-\]
+$$
+\Delta q = q - q_0
+$$
 
 and
 
-\[
-\Delta q_p=q_p-q_0.
-\]
+$$
+\Delta q_p = q_p - q_0
+$$
 
 The observed mobilization shift remains after this rebaselining.
 
@@ -683,25 +675,25 @@ stress.
 
 The primary normalized strain coordinate is
 
-\[
+$$
 x
 =
 \frac{\varepsilon_a}
      {\varepsilon_{a,p}}.
-\]
+$$
 
 If both numerator and denominator are uniformly scaled by the same factor,
 
-\[
+$$
 \frac{k\varepsilon_a}
      {k\varepsilon_{a,p}}
 =
 \frac{\varepsilon_a}
      {\varepsilon_{a,p}}.
-\]
+$$
 
 Numerical sensitivity testing over **0.5× to 2× strain scaling**
-changed fitted \(\lambda\) only at approximately machine precision.
+changed fitted $\lambda$ only at approximately machine precision.
 
 Thus, a uniform template strain-axis scale factor cannot explain the
 normalized mobilization shift.
@@ -718,7 +710,7 @@ entirely.
 
 Direct descriptors:
 
-\[
+$$
 y_{25},
 \quad
 y_{50},
@@ -726,7 +718,7 @@ y_{50},
 y_{75},
 \quad
 \bar y_{10-90}
-\]
+$$
 
 show the same systematic paired shift.
 
@@ -824,7 +816,7 @@ For the detailed literature comparison, see:
 
 7. **Compact constitutive representation**
 
-   The hyperbolic \(\lambda\) relation is not a replacement for a general
+   The hyperbolic $\lambda$ relation is not a replacement for a general
    elastoplastic unsaturated-soil constitutive framework.
 
 8. **Element-test scale**
