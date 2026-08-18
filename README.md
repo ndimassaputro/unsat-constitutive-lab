@@ -144,9 +144,7 @@ $q$.
 
 Accordingly,
 
-$$
-q_p = q_{\mathrm{source\ peak}}
-$$
+$q_p = q_{\mathrm{source\ peak}}$
 
 with no additional subtraction of net confining stress.
 
@@ -190,15 +188,7 @@ descriptors.
 
 A conventional Fredlund-type strength representation was evaluated:
 
-$$
-\tau_f
-=
-c'
-+
-(\sigma-u_a)\tan\phi'
-+
-(u_a-u_w)\tan\phi^b.
-$$
+$\tau_f = c' + (\sigma-u_a)\tan\phi' + (u_a-u_w)\tan\phi^b.$
 
 where:
 
@@ -227,21 +217,11 @@ mechanical and suction-only alternatives.
 
 For each loading stage, the pre-peak response is normalized as
 
-$$
-x
-=
-\frac{\varepsilon_a}
-     {\varepsilon_{a,p}},
-$$
+$x = \frac{\varepsilon_a} {\varepsilon_{a,p}},$
 
 and
 
-$$
-y
-=
-\frac{q-q_0}
-     {q_p-q_0},
-$$
+$y = \frac{q-q_0} {q_p-q_0},$
 
 where:
 
@@ -253,15 +233,11 @@ where:
 
 Thus,
 
-$$
-(x,y) = (0,0)
-$$
+$(x,y) = (0,0)$
 
 represents the normalized stage start, while
 
-$$
-(x,y) = (1,1)
-$$
+$(x,y) = (1,1)$
 
 represents the stage-specific peak.
 
@@ -271,12 +247,7 @@ represents the stage-specific peak.
 
 A one-parameter hyperbolic representation is used:
 
-$$
-y
-=
-\frac{x(1+\lambda)}
-     {1+\lambda x}.
-$$
+$y = \frac{x(1+\lambda)} {1+\lambda x}.$
 
 The parameter $\lambda$ describes the curvature of pre-peak stress
 mobilization.
@@ -321,99 +292,53 @@ $\lambda$ parameter.
 
 Direct normalized mobilization is evaluated at:
 
-$$
-x = 0.25, \qquad x = 0.50, \qquad x = 0.75
-$$
+$x = 0.25, \qquad x = 0.50, \qquad x = 0.75$
 
 These produce:
 
-$$
-y_{25}, \qquad y_{50}, \qquad y_{75}
-$$
+$y_{25}, \qquad y_{50}, \qquad y_{75}$
 
 A mean normalized mobilization descriptor is also evaluated over:
 
-$$
-0.10 \le x \le 0.90
-$$
+$0.10 \le x \le 0.90$
 
 Using the primary definition of $q_0$:
 
-$$
-\Delta y_{25}
-=
-+0.162,
-$$
+$\Delta y_{25} = +0.162,$
 
 with 95% tube-cluster bootstrap interval:
 
-$$
-[+0.115,\,+0.209].
-$$
+$[+0.115,\,+0.209].$
 
 At half normalized peak strain:
 
-$$
-\boxed{
-\Delta y_{50}
-=
-+0.171
-}
-$$
+$ \Delta y_{50} = +0.171$
 
 with
 
-$$
-\boxed{
-95\%\ \mathrm{CI}
-=
-[+0.132,\,+0.210]
-}
-$$
+$ 95\%\ \mathrm{CI} = [+0.132,\,+0.210]$
 
 and **92% of paired specimens** showing a positive shift.
 
 At
 
-$$
-x=0.75,
-$$
+$x=0.75,$
 
 the effect remains positive:
 
-$$
-\Delta y_{75}
-=
-+0.085,
-$$
+$\Delta y_{75} = +0.085,$
 
 with
 
-$$
-95\%\ \mathrm{CI}
-=
-[+0.065,\,+0.105].
-$$
+$95\%\ \mathrm{CI} = [+0.065,\,+0.105].$
 
 For the complete normalized interval:
 
-$$
-\boxed{
-\Delta \bar{y}_{10-90}
-=
-+0.131
-}
-$$
+$ \Delta \bar{y}_{10-90} = +0.131$
 
 with
 
-$$
-\boxed{
-95\%\ \mathrm{CI}
-=
-[+0.100,\,+0.161].
-}
-$$
+$ 95\%\ \mathrm{CI} = [+0.100,\,+0.161].$
 
 ---
 
@@ -483,17 +408,11 @@ remain stable.
 
 For example,
 
-$$
-\Delta y_{50}
-$$
+$\Delta y_{50}$
 
 remains approximately:
 
-$$
-+0.166
-\text{ to }
-+0.184.
-$$
+$+0.166 \text{ to } +0.184.$
 
 All corresponding 95% tube-cluster bootstrap intervals remain above zero.
 
@@ -505,35 +424,19 @@ The paired shift is independently present in the two major soil subsets.
 
 For **MH** soils:
 
-$$
-\Delta \bar{y}_{10-90}
-\approx
-+0.160,
-$$
+$\Delta \bar{y}_{10-90} \approx +0.160,$
 
 with approximately
 
-$$
-95\%\ \mathrm{CI}
-=
-[+0.117,\,+0.196].
-$$
+$95\%\ \mathrm{CI} = [+0.117,\,+0.196].$
 
 For **ML** soils:
 
-$$
-\Delta \bar{y}_{10-90}
-\approx
-+0.105,
-$$
+$\Delta \bar{y}_{10-90} \approx +0.105,$
 
 with approximately
 
-$$
-95\%\ \mathrm{CI}
-=
-[+0.071,\,+0.141].
-$$
+$95\%\ \mathrm{CI} = [+0.071,\,+0.141].$
 
 The result is therefore not carried entirely by one major soil class.
 
@@ -560,45 +463,27 @@ normalized mobilization shape.
 
 Across all **84 reconstructed stages**:
 
-$$
-\rho \approx 0.996
-$$
+$\rho \approx 0.996$
 
 between $\lambda$ and the model-free mean mobilization descriptor
 
-$$
-\bar{y}_{10-90}
-$$
+$\bar{y}_{10-90}$
 
 For multistage observations alone:
 
-$$
-\rho
-\approx
-0.996.
-$$
+$\rho \approx 0.996.$
 
 For tube-paired Stage-1 to Stage-2 comparisons:
 
-$$
-\Delta \lambda
-\approx
-+2.62,
-$$
+$\Delta \lambda \approx +2.62,$
 
 with
 
-$$
-95\%\ \mathrm{CI}
-\approx
-[+1.66,\,+3.73].
-$$
+$95\%\ \mathrm{CI} \approx [+1.66,\,+3.73].$
 
 The bootstrap probability of a positive tube-level mean shift is:
 
-$$
-P(\Delta \lambda > 0) \approx 1.000
-$$
+$P(\Delta \lambda > 0) \approx 1.000$
 
 The primary scientific inference nevertheless remains anchored to the
 **direct model-free mobilization descriptors**, rather than to
@@ -654,15 +539,11 @@ Later loading stages do not necessarily begin at zero deviator stress.
 
 The analysis was therefore reformulated using:
 
-$$
-\Delta q = q - q_0
-$$
+$\Delta q = q - q_0$
 
 and
 
-$$
-\Delta q_p = q_p - q_0
-$$
+$\Delta q_p = q_p - q_0$
 
 The observed mobilization shift remains after this rebaselining.
 
@@ -675,22 +556,11 @@ stress.
 
 The primary normalized strain coordinate is
 
-$$
-x
-=
-\frac{\varepsilon_a}
-     {\varepsilon_{a,p}}.
-$$
+$x = \frac{\varepsilon_a} {\varepsilon_{a,p}}.$
 
 If both numerator and denominator are uniformly scaled by the same factor,
 
-$$
-\frac{k\varepsilon_a}
-     {k\varepsilon_{a,p}}
-=
-\frac{\varepsilon_a}
-     {\varepsilon_{a,p}}.
-$$
+$\frac{k\varepsilon_a} {k\varepsilon_{a,p}} = \frac{\varepsilon_a} {\varepsilon_{a,p}}.$
 
 Numerical sensitivity testing over **0.5× to 2× strain scaling**
 changed fitted $\lambda$ only at approximately machine precision.
@@ -710,15 +580,7 @@ entirely.
 
 Direct descriptors:
 
-$$
-y_{25},
-\quad
-y_{50},
-\quad
-y_{75},
-\quad
-\bar y_{10-90}
-$$
+$y_{25}, \quad y_{50}, \quad y_{75}, \quad \bar y_{10-90}$
 
 show the same systematic paired shift.
 
