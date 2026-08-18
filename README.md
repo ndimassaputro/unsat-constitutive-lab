@@ -2,6 +2,13 @@
 
 ## Laboratory-Calibrated Constitutive Modelling of Unsaturated Soil under Triaxial Stress Paths
 
+[![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Method](https://img.shields.io/badge/Method-Constitutive%20Modelling-6B7280)](#constitutive-representation-of-pre-peak-response)
+[![Domain](https://img.shields.io/badge/Domain-Unsaturated%20Soil%20Mechanics-8B5E3C)](#scientific-motivation)
+[![Validation](https://img.shields.io/badge/Validation-Leave--One--Tube--Out-4C78A8)](#unsaturated-strength-modelling)
+[![Data](https://img.shields.io/badge/Data-Laboratory%20Triaxial-2F855A)](#experimental-source)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 **UnsatConstitutiveLab** is a reproducible computational study of
 laboratory unsaturated triaxial data for natural residual soils.
 
@@ -930,6 +937,27 @@ It demonstrates practical capability in:
 > and model-free falsification.**
 
 ---
+
+---
+
+# License and data provenance
+
+Original code and documentation in this repository are released under the
+**MIT License**. See [`LICENSE`](LICENSE).
+
+The experimental source archive analysed in this project is third-party
+research data and is **not relicensed by this repository**.
+
+Primary dataset:
+
+**Tang, C.-T.; Borden, R. H.; Gabr, M. A.**  
+Mendeley Data, Version 1.  
+DOI: **10.17632/p9tmzckdpt.1**  
+Source dataset license: **CC0 1.0 Universal**.
+
+See [`THIRD_PARTY_NOTICES.md`](THIRD_PARTY_NOTICES.md) for the attribution
+and reuse boundary.
+
 
 # Scientific integrity
 
